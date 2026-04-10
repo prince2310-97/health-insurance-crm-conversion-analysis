@@ -1,3 +1,4 @@
+-- my database
 use insurance_crm;
 -- ============================================================================================================================
 --  HEALTH INSURANCE CRM — LEAD CONVERSION ANALYTICS
@@ -52,7 +53,7 @@ use insurance_crm;
 SELECT
     lead_status,
 
-    -- Total leads at this stage
+    -- Total lead at this stage
     COUNT(lead_id)                                                               AS total_leads,
 
     -- Total premium value sitting at this stage — the INR pipeline
