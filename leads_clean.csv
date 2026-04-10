@@ -1,0 +1,994 @@
+Lead ID,Last Name,Lead Source,Lead Status,Address - City,Age,Gender,Policy Type,Premium Amount,Follow Up Count,Agent Name,Lead Date
+LEAD0460,Dayita Cherian,Website,Closed Won,Mumbai,28.0,Female,Individual Health,8379.0,2.0,Rajesh Sharma,2023-02-02
+LEAD0284,Ikshita Nagarajan,Direct Agent,Contacted,Patna,38.0,Female,Critical Illness,10133.0,2.0,Sneha Reddy,2023-08-28
+LEAD0173,Ryan Kuruvilla,Agent Referral,Quote Sent,Kolkata,68.0,Male,Individual Health,13942.0,2.0,Sneha Reddy,2024-04-12
+LEAD0047,Jagdish Sridhar,Unknown,Closed Lost,Patna,37.0,Male,Individual Health,14802.0,3.0,Sneha Reddy,2023-09-11
+LEAD0220,Thomas Dube,Google Ads,Closed Lost,Ahmedabad,18.0,Male,Individual Health,13008.0,2.0,Deepa Iyer,2023-12-06
+LEAD0654,Dalbir Biswas,Direct Agent,Closed Lost,Patna,58.0,Male,Group Health,66967.0,2.0,Rajesh Sharma,2023-08-30
+LEAD0361,Chatura Dar,Google Ads,Closed Won,Pune,41.0,Female,Family Floater,18688.0,1.0,Rajesh Sharma,2024-11-05
+LEAD0540,Isha Chaudhry,Website,Negotiation,Mumbai,66.0,Male,Senior Citizen,35856.0,2.0,Priya Nair,2024-07-13
+LEAD0498,Ishita Verma,Walk-in,Closed Lost,Jaipur,53.0,Female,Family Floater,17037.0,4.0,Rajesh Sharma,2024-05-27
+LEAD0468,Aarnav Kannan,Website,Closed Won,Hyderabad,25.0,Female,Group Health,64043.0,2.0,Rajesh Sharma,2023-10-19
+LEAD0051,Eiravati Khatri,Agent Referral,Closed Lost,Delhi,63.0,Female,Family Floater,44489.0,5.0,Amit Verma,2024-11-26
+LEAD0087,Charles Zachariah,Email Campaign,Closed Won,Ahmedabad,22.0,Female,Critical Illness,20097.0,3.0,Amit Verma,2023-11-21
+LEAD0954,Robert Kamdar,Website,Closed Won,Pune,24.0,Male,Family Floater,13849.0,2.0,Priya Nair,2024-01-09
+LEAD0132,Sathvik Bail,Agent Referral,Quote Sent,Delhi,67.0,Female,Senior Citizen,40409.0,2.0,Amit Verma,2024-11-02
+LEAD0793,Bishakha Mall,Direct Agent,Closed Won,Ahmedabad,48.0,Female,Individual Health,19787.0,4.0,Amit Verma,2024-09-05
+LEAD0023,Pavani Aurora,Direct Agent,Closed Won,Unknown,70.0,Male,Senior Citizen,40810.0,6.0,Sneha Reddy,2024-07-23
+LEAD0318,Adya Thaman,Google Ads,Closed Lost,Mumbai,53.0,Female,Family Floater,19974.0,4.0,Rajesh Sharma,2023-06-03
+LEAD0601,Warinder Subramaniam,Website,Closed Won,Delhi,21.0,Female,Individual Health,9358.0,5.0,Anjali Singh,2024-04-01
+LEAD0270,Bimala Sandal,Walk-in,Lead,Patna,32.0,Male,Family Floater,19974.0,5.0,Karan Mehta,2024-03-01
+LEAD0853,Arunima Bose,Direct Agent,Negotiation,Unknown,28.0,Male,Group Health,68367.0,5.0,Rajesh Sharma,2024-06-23
+LEAD0192,Nikita Kale,Website,Closed Won,Bengaluru,43.0,Male,Family Floater,31157.0,3.0,Karan Mehta,2023-11-15
+LEAD0631,Harrison Khatri,Agent Referral,Quote Sent,Kolkata,67.0,Female,Senior Citizen,66570.0,3.0,Suresh Pillai,2023-05-02
+LEAD0367,Jagdish Wali,Direct Agent,Quote Sent,Hyderabad,31.0,Male,Individual Health,16420.0,4.0,Rajesh Sharma,2024-09-08
+LEAD0178,Manya Kalita,Website,Negotiation,Jaipur,59.0,Male,Senior Citizen,70360.0,3.0,Suresh Pillai,2023-03-05
+LEAD0246,Geetika Merchant,Google Ads,Closed Won,Bengaluru,38.0,Female,Individual Health,7916.0,4.0,Rajesh Sharma,2023-11-09
+LEAD0557,Advay Aggarwal,Social Media,Negotiation,Bengaluru,39.0,Other,Individual Health,15999.0,4.0,Meena Gupta,2023-07-25
+LEAD0915,Ishita Kata,Agent Referral,Closed Won,Ahmedabad,29.0,Female,Individual Health,12533.0,1.0,Vikram Joshi,2024-07-31
+LEAD0349,Atharv Shah,Social Media,Lead,Kolkata,31.0,Male,Individual Health,10327.0,0.0,Priya Nair,2023-10-31
+LEAD0344,Girindra Yadav,Google Ads,Negotiation,Hyderabad,18.0,Male,Individual Health,11776.0,4.0,Priya Nair,2024-07-01
+LEAD0110,Aradhana Pal,Website,Negotiation,Bengaluru,37.0,Female,Family Floater,31329.0,5.0,Rajesh Sharma,2024-11-01
+LEAD0829,Ridhi Bhargava,Email Campaign,Closed Won,Kolkata,38.0,Male,Group Health,74886.0,4.0,Amit Verma,2024-11-26
+LEAD0607,Warhi Keer,Agent Referral,Closed Won,Delhi,44.0,Female,Family Floater,30240.0,7.0,Rajesh Sharma,2023-11-06
+LEAD0939,Ekantika Jhaveri,Website,Closed Lost,Delhi,53.0,Female,Individual Health,134815.08987449,2.0,Deepa Iyer,2024-10-11
+LEAD0692,Krish Kamdar,Unknown,Quote Sent,Mumbai,36.0,Female,Family Floater,20793.0,1.0,Sneha Reddy,2023-06-15
+LEAD0168,Ekapad Mall,Direct Agent,Closed Won,Pune,49.0,Male,Critical Illness,21110.0,0.0,Amit Verma,2024-08-14
+LEAD0701,Triveni Kumer,Website,Contacted,Indore,28.0,Male,Individual Health,11908.0,0.0,Priya Nair,2024-02-29
+LEAD0792,Yashica Gopal,Agent Referral,Closed Won,Hyderabad,35.0,Male,Family Floater,18635.0,4.0,Amit Verma,2024-04-14
+LEAD0870,Warinder Mann,Social Media,Contacted,Bengaluru,37.0,Female,Critical Illness,11936.0,1.0,Suresh Pillai,2024-02-03
+LEAD0610,Reyansh Bhavsar,Google Ads,Closed Won,Bhopal,36.0,Female,Family Floater,28999.0,4.0,Rajesh Sharma,2024-06-08
+LEAD0862,Watika Comar,Direct Agent,Closed Won,Kolkata,20.0,Female,Individual Health,10170.0,2.0,Vikram Joshi,2023-02-22
+LEAD0810,Shivansh Kashyap,Walk-in,Contacted,Ahmedabad,43.0,Female,Family Floater,17095.0,2.0,Suresh Pillai,2024-06-14
+LEAD0690,Saumya Lal,Website,Closed Lost,Chennai,57.0,Male,Senior Citizen,74336.0,3.0,Rajesh Sharma,2024-02-14
+LEAD0369,Oscar Dey,Agent Referral,Negotiation,Unknown,37.0,Female,Family Floater,19974.0,5.0,Karan Mehta,2023-12-27
+LEAD0296,Vasana Bal,Other,Closed Won,Mumbai,26.0,Female,Individual Health,7961.0,4.0,Anjali Singh,2023-12-30
+LEAD0847,Bhavika Suresh,Social Media,Negotiation,Kolkata,65.0,Female,Senior Citizen,94040.0,4.0,Vikram Joshi,2024-12-12
+LEAD0114,Oni Balay,Agent Referral,Quote Sent,Bengaluru,39.0,Male,Family Floater,23472.0,2.0,Sneha Reddy,2023-04-21
+LEAD0649,Balendra Chaudhari,Direct Agent,Closed Lost,Coimbatore,41.0,Female,Critical Illness,17377.0,4.0,Rajesh Sharma,2023-11-17
+LEAD0818,Jai Kala,Google Ads,Negotiation,Surat,41.0,Male,Individual Health,9329.0,3.0,Amit Verma,2023-11-19
+LEAD0226,Raagini Walia,Google Ads,Quote Sent,Lucknow,28.0,Female,Individual Health,8527.0,2.0,Karan Mehta,2024-10-11
+LEAD0301,Ekbal Lall,Website,Closed Lost,Surat,30.0,Female,Family Floater,29501.0,2.0,Amit Verma,2024-12-25
+LEAD0908,Chaitaly Das,Website,Closed Won,Chennai,40.0,Female,Individual Health,7262.0,2.0,Priya Nair,2023-09-08
+LEAD0968,Fiyaz Pant,Agent Referral,Contacted,Delhi,55.0,Female,Senior Citizen,23738.0,3.0,Anjali Singh,2024-07-04
+LEAD0153,Sachi Dhingra,Walk-in,Closed Won,Ahmedabad,43.0,Female,Individual Health,19974.0,1.0,Anjali Singh,2023-02-05
+LEAD0675,Umang Bali,Website,Closed Lost,Mumbai,55.0,Male,Senior Citizen,53413.0,3.0,Deepa Iyer,2023-10-03
+LEAD0004,Idika Sinha,Google Ads,Closed Lost,Indore,44.0,Male,Critical Illness,9947.0,4.0,Vikram Joshi,2024-01-23
+LEAD0813,Warinder Krishnamurthy,Agent Referral,Closed Won,Chennai,68.0,Male,Senior Citizen,42125.0,3.0,Sneha Reddy,2023-10-23
+LEAD0553,Advaith Sachar,Website,Closed Lost,Hyderabad,61.0,Male,Senior Citizen,27704.0,1.0,Karan Mehta,2023-09-15
+LEAD0612,Yashawini Dhaliwal,Agent Referral,Closed Won,Coimbatore,47.0,Female,Individual Health,17684.0,1.0,Rajesh Sharma,2023-07-18
+LEAD0101,Niharika Chander,Social Media,Contacted,Pune,31.0,Female,Critical Illness,19974.0,1.0,Anjali Singh,2024-09-22
+LEAD0594,Laban Soni,Walk-in,Closed Won,Delhi,43.0,Female,Family Floater,22011.0,9.0,Amit Verma,2024-10-23
+LEAD0840,Anika Shenoy,Other,Lead,Lucknow,67.0,female,Senior Citizen,61843.0,2.0,Sneha Reddy,2024-10-27
+LEAD0049,Vrishti Sarin,Direct Agent,Lead,Hyderabad,38.0,Male,Family Floater,31139.0,3.0,Anjali Singh,2024-02-03
+LEAD0837,Lohit Pandit,Social Media,Negotiation,Surat,41.0,Male,Individual Health,9597.0,3.0,Vikram Joshi,2024-11-25
+LEAD0617,Azaan Ahluwalia,Google Ads,Closed Lost,Delhi,68.0,Male,Senior Citizen,35340.0,2.0,Priya Nair,2023-03-22
+LEAD0494,Chakradhar Edwin,Walk-in,Closed Lost,Delhi,35.0,Male,Family Floater,18880.0,3.0,Deepa Iyer,2024-04-13
+LEAD0879,Banjeet Kara,Agent Referral,Lead,Pune,41.0,Female,Group Health,64062.0,3.0,Anjali Singh,2023-07-17
+LEAD0900,Zaid Swaminathan,Google Ads,Contacted,Pune,40.0,Male,Individual Health,11004.0,5.0,Amit Verma,2023-10-21
+LEAD0058,Gaurika Chauhan,Google Ads,Negotiation,Kolkata,60.0,Male,Individual Health,19160.0,2.0,Rajesh Sharma,2024-03-06
+LEAD0288,Tanish Vig,Agent Referral,Closed Won,Kolkata,42.0,Female,Individual Health,9062.0,2.0,Rajesh Sharma,2023-03-05
+LEAD0276,Madhav Lanka,Social Media,Closed Lost,Pune,57.0,Male,Individual Health,13810.0,4.0,Rajesh Sharma,2023-01-13
+LEAD0209,Aarini Setty,Google Ads,Closed Lost,Ahmedabad,36.0,Male,Critical Illness,15111.0,5.0,Karan Mehta,2024-11-18
+LEAD0345,Oni Badal,Google Ads,Closed Won,Mumbai,37.0,Female,Family Floater,33948.0,4.0,Vikram Joshi,2024-04-30
+LEAD0890,Oeshi Arora,Agent Referral,Closed Won,Pune,45.0,Female,Family Floater,24209.0,2.0,Priya Nair,2024-10-06
+LEAD0327,Patrick Hayre,Email Campaign,Closed Lost,Mumbai,61.0,Male,Senior Citizen,61496.0,1.0,Priya Nair,2023-08-19
+LEAD0835,Andrew Edwin,Google Ads,Negotiation,Bengaluru,25.0,Male,Individual Health,10168.0,1.0,Sneha Reddy,2023-05-15
+LEAD0682,Abha Puri,Email Campaign,Quote Sent,Patna,18.0,Male,Family Floater,11819.0,1.0,Rajesh Sharma,2023-03-20
+LEAD0926,Jagrati Dara,Website,Quote Sent,Hyderabad,31.0,Male,Critical Illness,11063.0,0.0,Suresh Pillai,2024-11-16
+LEAD0886,Vedika Choudhry,Agent Referral,Contacted,Mumbai,34.0,Male,Critical Illness,14543.0,3.0,Amit Verma,2023-02-22
+LEAD0137,Nikita Sathe,Direct Agent,Negotiation,Lucknow,40.0,Female,Individual Health,90012.84678003,1.0,Anjali Singh,2023-07-18
+LEAD0936,Alexander Sharaf,Social Media,Contacted,Mumbai,44.0,Female,Individual Health,11453.0,5.0,Anjali Singh,2024-09-07
+LEAD0736,Omisha Bera,Website,Quote Sent,Mumbai,18.0,Female,Group Health,61024.0,3.0,Priya Nair,2023-01-21
+LEAD0515,Elijah Anne,Direct Agent,Closed Won,Indore,65.0,Female,Senior Citizen,57234.0,8.0,Vikram Joshi,2023-08-02
+LEAD0563,Faraj Badami,Agent Referral,Closed Won,Hyderabad,61.0,Male,Senior Citizen,37368.0,1.0,Suresh Pillai,2024-03-24
+LEAD0924,Geetika Suri,Email Campaign,Closed Won,Hyderabad,36.0,Male,Group Health,52862.0,5.0,Deepa Iyer,2024-06-02
+LEAD0351,George Mukhopadhyay,Direct Agent,Contacted,Ahmedabad,40.0,Male,Critical Illness,189652.990034192,2.0,Priya Nair,2023-04-06
+LEAD0085,Amrita Doshi,Email Campaign,Contacted,Ahmedabad,36.0,Male,Group Health,61767.0,2.0,Rajesh Sharma,2024-05-29
+LEAD0155,Mohammed Chatterjee,Direct Agent,Closed Lost,Hyderabad,39.0,Male,Individual Health,12758.0,2.0,Rajesh Sharma,2023-07-10
+LEAD0584,Luke Sandhu,Google Ads,Contacted,Mumbai,56.0,Other,Individual Health,11719.0,9.0,Vikram Joshi,2024-08-20
+LEAD0302,Varsha Srinivasan,Website,Closed Lost,Delhi,34.0,Female,Individual Health,8643.0,6.0,Deepa Iyer,2023-05-11
+LEAD0704,Warhi Jha,Google Ads,Closed Lost,Ahmedabad,45.0,Female,Critical Illness,17690.0,6.0,Deepa Iyer,2024-12-31
+LEAD0064,Falan Mallick,Agent Referral,Closed Won,Mumbai,41.0,Male,Individual Health,8863.0,1.0,Karan Mehta,2023-07-09
+LEAD0779,Harita Randhawa,Website,Contacted,Pune,69.0,Female,Senior Citizen,40218.0,4.0,Rajesh Sharma,2023-05-27
+LEAD0225,Damini Sankaran,Website,Lead,Unknown,41.0,Male,Family Floater,28077.0,1.0,Sneha Reddy,2024-11-27
+LEAD0615,Atharv Sarna,Agent Referral,Contacted,Delhi,18.0,Male,Critical Illness,9513.0,3.0,Anjali Singh,2024-06-22
+LEAD0783,Brijesh Krishnan,Walk-in,Closed Won,Jaipur,39.0,Male,Critical Illness,19479.0,0.0,Karan Mehta,2023-05-05
+LEAD0705,Chaitaly Chakrabarti,Social Media,Negotiation,Bhopal,43.0,Female,Individual Health,15520.0,3.0,Anjali Singh,2024-06-24
+LEAD0309,Neelima Sidhu,Agent Referral,Quote Sent,Chennai,35.0,Female,Individual Health,16046.0,7.0,Sneha Reddy,2024-07-21
+LEAD0141,Pavani Grover,Direct Agent,Closed Won,Delhi,36.0,Male,Individual Health,7758.0,0.0,Amit Verma,2023-05-30
+LEAD0125,Pallavi Swaminathan,Social Media,Closed Lost,Pune,69.0,Male,Senior Citizen,97796.0,4.0,Anjali Singh,2024-05-20
+LEAD0133,Gavin Choudhury,Social Media,Quote Sent,Lucknow,56.0,Male,Senior Citizen,71391.0,3.0,Karan Mehta,2024-12-02
+LEAD0887,Jagvi Chauhan,Google Ads,Quote Sent,Ahmedabad,38.0,Male,Group Health,19974.0,3.0,Meena Gupta,2024-07-16
+LEAD0950,Nathaniel Balakrishnan,Website,Lead,Ahmedabad,19.0,Female,Individual Health,6800.0,2.0,Vikram Joshi,2023-04-20
+LEAD0502,Idika Mahajan,Agent Referral,Closed Lost,Surat,19.0,Male,Individual Health,12643.0,4.0,Meena Gupta,2023-10-23
+LEAD0231,Vritti Banerjee,Website,Closed Lost,Pune,51.0,Male,Individual Health,15476.0,0.0,Amit Verma,2024-02-10
+LEAD0587,Dipta Merchant,Walk-in,Closed Won,Kolkata,38.0,Female,Family Floater,32287.0,1.0,Amit Verma,2024-04-21
+LEAD0075,Vivaan Maharaj,Other,Contacted,Coimbatore,70.0,Female,Senior Citizen,89756.0,0.0,Rajesh Sharma,2023-06-29
+LEAD0417,Wakeeta Sachdev,Website,Closed Won,Mumbai,53.0,Male,Family Floater,27873.0,1.0,Priya Nair,2023-02-06
+LEAD0575,Quincy Natt,Email Campaign,Closed Won,Pune,34.0,Male,Family Floater,17763.0,3.0,Rajesh Sharma,2024-07-04
+LEAD0806,Megha Bhakta,Direct Agent,Contacted,Unknown,41.0,Female,Family Floater,12475.0,6.0,Vikram Joshi,2024-02-23
+LEAD0490,Gauri Saran,Email Campaign,Closed Lost,Bengaluru,68.0,Male,Senior Citizen,57736.0,5.0,Suresh Pillai,2024-02-28
+LEAD0465,Hredhaan Dyal,Social Media,Closed Lost,Delhi,53.0,Female,Family Floater,42203.0,4.0,Deepa Iyer,2024-01-02
+LEAD0716,Dayita Peri,Other,Quote Sent,Hyderabad,52.0,Male,Individual Health,18630.0,1.0,Anjali Singh,2023-05-26
+LEAD0805,Panini Gala,Website,Closed Lost,Delhi,60.0,Male,Individual Health,31668.0,3.0,Rajesh Sharma,2024-05-27
+LEAD0082,Anvi Datta,Email Campaign,Contacted,Bhopal,43.0,Male,Individual Health,9754.0,3.0,Sneha Reddy,2024-06-03
+LEAD0811,Qabil Pandya,Website,Closed Won,Jaipur,36.0,Male,Family Floater,19974.0,6.0,Vikram Joshi,2024-02-26
+LEAD0787,Michael Swaminathan,Agent Referral,Closed Won,Pune,21.0,Female,Individual Health,5239.0,0.0,Priya Nair,2024-11-18
+LEAD0116,Xavier Pradhan,Direct Agent,Closed Lost,Mumbai,59.0,Female,Senior Citizen,57159.0,3.0,Amit Verma,2023-07-05
+LEAD0523,Hemani Mahajan,Agent Referral,Closed Won,Bengaluru,64.0,F,Senior Citizen,67143.0,3.0,Priya Nair,2023-03-14
+LEAD0139,Lucky Shankar,Agent Referral,Closed Won,Kolkata,21.0,Female,Critical Illness,13221.0,6.0,Amit Verma,2023-06-14
+LEAD0130,Meera Shah,Website,Negotiation,Unknown,35.0,Female,Family Floater,24632.0,3.0,Suresh Pillai,2024-02-01
+LEAD0585,Onkar Bhagat,Email Campaign,Quote Sent,Delhi,59.0,Female,Family Floater,21429.0,2.0,Rajesh Sharma,2024-10-04
+LEAD0267,Rehaan Barad,Direct Agent,Closed Won,Ahmedabad,44.0,Female,Family Floater,32177.0,3.0,Karan Mehta,2023-10-30
+LEAD0127,Luke Gopal,Website,Closed Lost,Mumbai,44.0,Male,Individual Health,7039.0,5.0,Rajesh Sharma,2023-10-21
+LEAD0462,Tristan Sarna,Agent Referral,Lead,Jaipur,36.0,Male,Group Health,52333.0,2.0,Suresh Pillai,2023-03-23
+LEAD0801,Chatresh Ravi,Website,Negotiation,Mumbai,62.0,Male,Critical Illness,34844.0,4.0,Priya Nair,2023-03-22
+LEAD0655,Tamanna Munshi,Social Media,Quote Sent,Bhopal,52.0,Female,Family Floater,36245.0,3.0,Suresh Pillai,2024-05-18
+LEAD0944,Veda Sarkar,Direct Agent,Contacted,Delhi,64.0,Male,Critical Illness,24000.0,5.0,Vikram Joshi,2023-12-10
+LEAD0897,Gauri Bhargava,Agent Referral,Closed Won,Kolkata,40.0,Male,Critical Illness,8522.0,2.0,Rajesh Sharma,2023-08-18
+LEAD0454,Imaran Bhardwaj,Agent Referral,Negotiation,Jaipur,65.0,Female,Senior Citizen,31364.0,1.0,Sneha Reddy,2024-12-03
+LEAD0263,Ojas Bawa,Website,Quote Sent,Jaipur,47.0,Female,Individual Health,13473.0,2.0,Anjali Singh,2023-04-16
+LEAD0435,Amol Agrawal,Agent Referral,Negotiation,Ahmedabad,69.0,Female,Senior Citizen,35696.0,4.0,Deepa Iyer,2024-05-14
+LEAD0357,Luke Joshi,Email Campaign,Quote Sent,Indore,22.0,Female,Individual Health,5798.0,7.0,Priya Nair,2023-10-12
+LEAD0391,Netra Dey,Agent Referral,Closed Won,Mumbai,62.0,Male,Senior Citizen,36742.0,1.0,Amit Verma,2023-05-12
+LEAD0910,Garima Boase,Direct Agent,Closed Won,Jaipur,24.0,Female,Individual Health,10564.0,4.0,Rajesh Sharma,2023-06-27
+LEAD0665,Mohammed Naidu,Google Ads,Closed Won,Bengaluru,63.0,Male,Senior Citizen,31007.0,3.0,Karan Mehta,2024-09-03
+LEAD0007,Jackson Hayre,Google Ads,Closed Lost,Unknown,30.0,Male,Family Floater,18334.0,2.0,Anjali Singh,2023-02-27
+LEAD0636,Irya Pandit,Google Ads,Closed Won,Mumbai,29.0,Male,Critical Illness,18686.0,7.0,Priya Nair,2024-07-05
+LEAD0542,Ekapad Bhardwaj,Google Ads,Lead,Bengaluru,64.0,Female,Senior Citizen,37350.0,5.0,Deepa Iyer,2024-07-06
+LEAD0955,Omya Sem,Google Ads,Negotiation,Mumbai,26.0,Male,Individual Health,11710.0,5.0,Priya Nair,2023-04-05
+LEAD0596,Nidhi Chowdhury,Email Campaign,Contacted,Bengaluru,39.0,Male,Individual Health,8634.0,4.0,Meena Gupta,2024-09-25
+LEAD0041,Oscar Tata,Google Ads,Contacted,Coimbatore,25.0,Male,Critical Illness,7532.0,4.0,Amit Verma,2024-07-15
+LEAD0979,Pranit Majumdar,Agent Referral,Closed Won,Bengaluru,33.0,Male,Individual Health,12421.0,5.0,Deepa Iyer,2024-02-19
+LEAD0639,Chandani Das,Social Media,Contacted,Indore,52.0,Male,Critical Illness,24073.0,1.0,Amit Verma,2023-02-18
+LEAD0308,Yadavi Bawa,Unknown,Negotiation,Coimbatore,37.0,Male,Individual Health,5856.0,2.0,Suresh Pillai,2024-12-22
+LEAD0018,Nidra Zachariah,Agent Referral,Negotiation,Indore,34.0,Female,Individual Health,16779.0,0.0,Priya Nair,2023-05-16
+LEAD0457,Ekaja Arya,Email Campaign,Closed Won,Bengaluru,35.0,Female,Critical Illness,22043.0,3.0,Rajesh Sharma,2023-06-08
+LEAD0836,Vedika Bera,Unknown,Contacted,Indore,28.0,Female,Family Floater,27808.0,3.0,Rajesh Sharma,2024-12-13
+LEAD0373,Watika Gara,Google Ads,Lead,Bengaluru,36.0,Female,Group Health,44125.0,4.0,Meena Gupta,2024-12-02
+LEAD0519,Dayamai Chad,Direct Agent,Closed Won,Bhopal,19.0,Male,Individual Health,15240.0,4.0,Rajesh Sharma,2024-06-12
+LEAD0861,Jack Hayer,Walk-in,Negotiation,Surat,41.0,Male,Critical Illness,7527.0,6.0,Vikram Joshi,2024-09-15
+LEAD0549,Shivani Palla,Website,Contacted,Chennai,30.0,Male,Group Health,64117.0,3.0,Priya Nair,2024-11-30
+LEAD0815,Shravya Varghese,Email Campaign,Closed Won,Unknown,53.0,Male,Family Floater,17643.0,5.0,Rajesh Sharma,2024-10-13
+LEAD0426,Chakrika Aurora,Agent Referral,Closed Lost,Chennai,64.0,Female,Critical Illness,27163.0,1.0,Anjali Singh,2024-01-16
+LEAD0019,Januja Goswami,Social Media,Negotiation,Lucknow,28.0,Male,Individual Health,12735.0,7.0,Sneha Reddy,2024-03-09
+LEAD0033,Ganga Raju,Agent Referral,Quote Sent,Unknown,41.0,Female,Family Floater,28525.0,0.0,Deepa Iyer,2023-12-29
+LEAD0054,Darika Mann,Walk-in,Closed Won,Mumbai,57.0,Female,Individual Health,12201.0,4.0,Meena Gupta,2023-02-11
+LEAD0715,Indira Swamy,Direct Agent,Lead,Coimbatore,41.0,Female,Group Health,46267.0,0.0,Sneha Reddy,2023-05-04
+LEAD0499,Viraj Kale,Direct Agent,Negotiation,Hyderabad,19.0,M,Individual Health,10612.0,1.0,Suresh Pillai,2023-07-26
+LEAD0237,Krisha Nath,Website,Lead,Bhopal,51.0,Male,Family Floater,40755.0,3.0,Karan Mehta,2024-11-04
+LEAD0408,Chandani Arora,Unknown,Quote Sent,Mumbai,32.0,Female,Critical Illness,21474.0,6.0,Rajesh Sharma,2024-11-25
+LEAD0517,Harrison Sankar,Email Campaign,Quote Sent,Bengaluru,66.0,Female,Senior Citizen,86410.0,8.0,Rajesh Sharma,2023-09-01
+LEAD0254,Ijaya Vasa,Website,Quote Sent,Kolkata,41.0,Female,Individual Health,9342.0,7.0,Amit Verma,2024-08-09
+LEAD0893,Zinal Nagarajan,Unknown,Quote Sent,Patna,41.0,Male,Individual Health,19974.0,6.0,Karan Mehta,2023-01-13
+LEAD0079,Chasmum Sastry,Google Ads,Negotiation,Surat,69.0,Male,Senior Citizen,72693.0,1.0,Vikram Joshi,2023-10-22
+LEAD0438,Meera Mistry,Direct Agent,Lead,Delhi,35.0,Female,Individual Health,8209.0,3.0,Karan Mehta,2023-08-04
+LEAD0561,Zinal Palla,Website,Negotiation,Mumbai,39.0,Female,Group Health,64442.0,0.0,Amit Verma,2023-02-26
+LEAD0043,Baljiwan Varghese,Direct Agent,Closed Won,Pune,40.0,Male,Critical Illness,13653.0,4.0,Deepa Iyer,2023-08-19
+LEAD0466,Jai Gole,Website,Closed Lost,Delhi,47.0,Male,Individual Health,16136.0,3.0,Meena Gupta,2024-03-29
+LEAD0724,Omisha Sehgal,Agent Referral,Closed Won,Bengaluru,38.0,Male,Individual Health,10989.0,1.0,Priya Nair,2024-09-21
+LEAD0028,Kashish Dhingra,Direct Agent,Quote Sent,Mumbai,47.0,Male,Individual Health,21680.0,3.0,Vikram Joshi,2023-11-06
+LEAD0681,Bhavna Suresh,Website,Contacted,Delhi,46.0,Female,Family Floater,19424.0,1.0,Amit Verma,2024-03-23
+LEAD0771,Rayaan Basak,Social Media,Quote Sent,Chennai,41.0,Female,Individual Health,12843.0,1.0,Anjali Singh,2024-12-15
+LEAD0026,Mohammed Khare,Website,Negotiation,Ahmedabad,67.0,Male,Individual Health,15190.0,3.0,Deepa Iyer,2023-11-18
+LEAD0896,Agastya Suresh,Direct Agent,Closed Won,Nagpur,24.0,Female,Family Floater,28703.0,4.0,Vikram Joshi,2023-10-01
+LEAD0545,Yashasvi Sankaran,Website,Contacted,Mumbai,58.0,Female,Individual Health,13955.0,4.0,Anjali Singh,2023-09-16
+LEAD0272,Jeet Kohli,Google Ads,Contacted,Surat,48.0,Female,Family Floater,15815.0,3.0,Sneha Reddy,2023-09-02
+LEAD0972,Balvan Nadig,Email Campaign,Quote Sent,Ahmedabad,55.0,Male,Senior Citizen,39897.0,5.0,Sneha Reddy,2023-08-06
+LEAD0135,George Gole,Social Media,Closed Won,Mumbai,47.0,Female,Critical Illness,14153.0,5.0,Rajesh Sharma,2023-12-11
+LEAD0106,Ayushman Madan,Direct Agent,Closed Won,Lucknow,30.0,Male,Individual Health,14619.0,4.0,Rajesh Sharma,2024-03-07
+LEAD0008,Vidhi Khanna,Walk-in,Contacted,Mumbai,49.0,Male,Family Floater,32039.0,2.0,Priya Nair,2024-05-26
+LEAD0746,Harini Khosla,Agent Referral,Closed Won,Mumbai,41.0,Female,Critical Illness,21485.0,2.0,Amit Verma,2024-10-03
+LEAD0293,Lopa Pradhan,Website,Closed Lost,Bhopal,38.0,Male,Family Floater,22340.0,5.0,Anjali Singh,2024-01-27
+LEAD0974,Baljiwan Bhakta,Walk-in,Closed Won,Delhi,36.0,Male,Family Floater,24359.0,5.0,Deepa Iyer,2023-07-27
+LEAD0859,Noah Golla,Website,Closed Lost,Mumbai,25.0,Male,Individual Health,12946.0,0.0,Suresh Pillai,2023-01-11
+LEAD0683,Vamakshi Subramanian,Social Media,Closed Lost,Jaipur,56.0,Male,Family Floater,26179.0,6.0,Karan Mehta,2023-01-17
+LEAD0320,Veer Bhatia,Unknown,Closed Lost,Bengaluru,59.0,Male,Family Floater,49433.0,4.0,Rajesh Sharma,2023-12-06
+LEAD0777,Aachal Pall,Agent Referral,Quote Sent,Kolkata,25.0,Male,Critical Illness,11864.0,4.0,Priya Nair,2023-04-24
+LEAD0633,Xavier Gour,Google Ads,Closed Lost,Ahmedabad,71.0,Male,Senior Citizen,33512.0,3.0,Sneha Reddy,2023-06-10
+LEAD0559,Sanaya Tara,Agent Referral,Closed Won,Lucknow,24.0,Female,Family Floater,27260.0,3.0,Rajesh Sharma,2023-02-08
+LEAD0833,Gaurika Desai,Social Media,Contacted,Delhi,41.0,Female,Critical Illness,22535.0,1.0,Rajesh Sharma,2023-07-03
+LEAD0259,Onkar Bali,Website,Contacted,Kolkata,57.0,Female,Individual Health,27386.0,5.0,Rajesh Sharma,2023-04-12
+LEAD0421,Samuel Keer,Google Ads,Quote Sent,Pune,36.0,Female,Group Health,73554.0,1.0,Karan Mehta,2023-12-14
+LEAD0120,Pranit Comar,Agent Referral,Contacted,Delhi,18.0,Male,Individual Health,7055.0,3.0,Rajesh Sharma,2024-03-16
+LEAD0289,Advik Ahluwalia,Google Ads,Closed Won,Hyderabad,18.0,Female,Family Floater,11347.0,5.0,Priya Nair,2023-03-18
+LEAD0081,Chaaya Buch,Direct Agent,Closed Lost,Coimbatore,62.0,Male,Senior Citizen,77911.0,1.0,Sneha Reddy,2024-04-28
+LEAD0212,Adweta Edwin,Social Media,Negotiation,Jaipur,31.0,Female,Individual Health,15216.0,5.0,Amit Verma,2023-02-16
+LEAD0953,Chaaya Kari,Direct Agent,Closed Won,Bengaluru,41.0,Male,Group Health,69190.0,3.0,Rajesh Sharma,2024-06-18
+LEAD0200,Jatin Mahal,Agent Referral,Closed Won,Indore,31.0,Male,Group Health,77318.0,11.0,Rajesh Sharma,2023-08-17
+LEAD0855,Vedika Rau,Unknown,Negotiation,Hyderabad,67.0,Female,Senior Citizen,75183.0,1.0,Vikram Joshi,2024-08-31
+LEAD0703,Dev Tella,Social Media,Closed Won,Mumbai,26.0,Male,Group Health,53447.0,5.0,Amit Verma,2023-06-18
+LEAD0597,Upasna Arya,Google Ads,Contacted,Indore,65.0,Female,Senior Citizen,42598.0,0.0,Priya Nair,2023-02-12
+LEAD0937,Hema Pandey,Walk-in,Closed Won,Ahmedabad,61.0,Male,Family Floater,49939.0,4.0,Amit Verma,2023-11-11
+LEAD0634,Baghyawati Jani,Unknown,Closed Lost,Hyderabad,52.0,Female,Individual Health,15731.0,3.0,Rajesh Sharma,2024-01-11
+LEAD0678,Vidhi Pandya,Google Ads,Quote Sent,Hyderabad,34.0,Male,Group Health,73227.0,0.0,Amit Verma,2024-03-18
+LEAD0583,Theodore Yohannan,Direct Agent,Closed Won,Chennai,50.0,Female,Family Floater,19740.0,2.0,Karan Mehta,2023-08-12
+LEAD0738,Anita Narasimhan,Google Ads,Negotiation,Unknown,39.0,Male,Individual Health,15040.0,5.0,Vikram Joshi,2023-06-24
+LEAD0880,Eesha Patel,Direct Agent,Closed Won,Pune,18.0,Female,Family Floater,10344.0,7.0,Vikram Joshi,2023-06-07
+LEAD0422,Faraj Sethi,Agent Referral,Closed Won,Mumbai,33.0,Female,Individual Health,16438.0,4.0,Meena Gupta,2024-11-24
+LEAD0469,Robert Jaggi,Agent Referral,Closed Won,Bhopal,35.0,Male,Group Health,78892.0,4.0,Amit Verma,2024-12-07
+LEAD0375,Saumya Venkataraman,Direct Agent,Closed Won,Unknown,33.0,Female,Individual Health,13552.0,6.0,Priya Nair,2023-06-27
+LEAD0016,Nilima Varkey,Google Ads,Closed Won,Jaipur,33.0,Female,Family Floater,25186.0,6.0,Amit Verma,2024-06-13
+LEAD0814,Amol Ratta,Website,Closed Lost,Chennai,36.0,Male,Individual Health,6757.0,5.0,Priya Nair,2023-07-25
+LEAD0215,Sarthak Mital,Email Campaign,Closed Lost,Delhi,42.0,Female,Group Health,70747.0,5.0,Vikram Joshi,2023-03-18
+LEAD0412,Bhanumati Sangha,Google Ads,Closed Lost,Bengaluru,60.0,Male,Senior Citizen,454279.841027865,2.0,Anjali Singh,2024-05-09
+LEAD0102,Nandini Sibal,Website,Negotiation,Delhi,28.0,Female,Individual Health,14472.0,2.0,Meena Gupta,2024-01-12
+LEAD0865,Harini Mistry,Agent Referral,Quote Sent,Indore,54.0,Female,Individual Health,7110.0,3.0,Amit Verma,2023-04-20
+LEAD0878,Wishi Bedi,Social Media,Contacted,Hyderabad,63.0,Male,Senior Citizen,50524.0,2.0,Deepa Iyer,2023-09-01
+LEAD0520,Samar Samra,Email Campaign,Closed Lost,Hyderabad,33.0,Male,Individual Health,7203.0,5.0,Rajesh Sharma,2024-08-31
+LEAD0581,Samesh Hans,Direct Agent,Contacted,Indore,68.0,Female,Senior Citizen,19974.0,0.0,Priya Nair,2023-12-02
+LEAD0803,Chasmum Chokshi,Agent Referral,Closed Lost,Hyderabad,47.0,Female,Family Floater,29815.0,4.0,Karan Mehta,2023-06-09
+LEAD0031,Nikita Swamy,Unknown,Closed Won,Delhi,41.0,Male,Individual Health,5973.0,3.0,Karan Mehta,2024-07-28
+LEAD0871,Edhitha Kalla,Website,Quote Sent,Delhi,68.0,Male,Senior Citizen,29959.0,5.0,Deepa Iyer,2023-12-17
+LEAD0268,Turvi Khalsa,Website,Closed Lost,Coimbatore,26.0,F,Individual Health,6011.0,5.0,Vikram Joshi,2024-06-24
+LEAD0144,Vasudha Pai,Website,Quote Sent,Pune,62.0,Male,Senior Citizen,67662.0,4.0,Rajesh Sharma,2023-12-28
+LEAD0260,Gayathri Venkataraman,Agent Referral,Closed Lost,Chennai,50.0,Female,Group Health,80479.0,0.0,Deepa Iyer,2023-05-16
+LEAD0743,Mahika Hora,Walk-in,Lead,Coimbatore,47.0,Female,Individual Health,8152.0,5.0,Rajesh Sharma,2024-10-02
+LEAD0624,Brinda Pal,Direct Agent,Closed Won,Pune,39.0,Male,Group Health,51454.0,5.0,Vikram Joshi,2023-10-25
+LEAD0965,Gagan Anne,Agent Referral,Closed Won,Patna,30.0,Female,Family Floater,21863.0,5.0,Rajesh Sharma,2024-03-01
+LEAD0376,Zehaan Sachdeva,Direct Agent,Lead,Bengaluru,26.0,Male,Individual Health,15864.0,4.0,Rajesh Sharma,2024-04-22
+LEAD0572,Harish Gola,Agent Referral,Closed Won,Delhi,57.0,Male,Senior Citizen,55834.0,7.0,Karan Mehta,2024-09-18
+LEAD0065,Udyati Kota,Unknown,Contacted,Jaipur,41.0,Male,Family Floater,21707.0,1.0,Rajesh Sharma,2023-07-18
+LEAD0442,Kala Kamdar,Website,Lead,Bhopal,43.0,Female,Family Floater,19974.0,2.0,Suresh Pillai,2024-05-08
+LEAD0214,Harrison Prabhu,Unknown,Closed Won,Nagpur,40.0,Male,Family Floater,17019.0,5.0,Priya Nair,2023-12-27
+LEAD0589,Victor Gala,Google Ads,Closed Won,Bhopal,71.0,Female,Senior Citizen,66117.0,3.0,Amit Verma,2023-10-01
+LEAD0876,Mahika Shah,Direct Agent,Closed Won,Hyderabad,34.0,Male,Individual Health,9473.0,1.0,Rajesh Sharma,2023-11-26
+LEAD0730,Keya Bail,Direct Agent,Negotiation,Bengaluru,71.0,Female,Senior Citizen,19974.0,2.0,Anjali Singh,2023-08-06
+LEAD0713,Janya Mander,Website,Negotiation,Hyderabad,68.0,Female,Senior Citizen,73542.0,1.0,Vikram Joshi,2024-10-13
+LEAD0521,Tarak Chaudhary,Social Media,Contacted,Surat,26.0,Male,Individual Health,19974.0,3.0,Deepa Iyer,2023-08-03
+LEAD0883,Faraj Bajaj,Agent Referral,Quote Sent,Unknown,61.0,Male,Critical Illness,15039.0,3.0,Vikram Joshi,2024-06-09
+LEAD0722,Samarth Gala,Direct Agent,Closed Lost,Lucknow,65.0,Male,Senior Citizen,67606.0,3.0,Sneha Reddy,2024-06-30
+LEAD0362,Dhriti Aurora,Social Media,Closed Won,Pune,37.0,Male,Family Floater,27290.0,2.0,Rajesh Sharma,2023-06-18
+LEAD0385,Yadavi Narayanan,Direct Agent,Negotiation,Hyderabad,42.0,Male,Family Floater,14072.0,1.0,Rajesh Sharma,2024-09-25
+LEAD0295,Vritti Boase,Social Media,Closed Lost,Kolkata,33.0,Other,Group Health,36723.0,1.0,Rajesh Sharma,2024-11-03
+LEAD0126,Aarna Deshpande,Google Ads,Quote Sent,Pune,36.0,Female,Critical Illness,21963.0,1.0,Priya Nair,2023-03-11
+LEAD0789,Nitara Raval,Social Media,Quote Sent,Lucknow,54.0,Male,Group Health,30992.0,3.0,Priya Nair,2023-04-04
+LEAD0758,Champak DâAlia,Social Media,Negotiation,Hyderabad,28.0,Female,Individual Health,10850.0,7.0,Amit Verma,2023-09-03
+LEAD0857,Jalsa Dora,Agent Referral,Closed Lost,Jaipur,21.0,Female,Group Health,43773.0,2.0,Vikram Joshi,2023-10-10
+LEAD0436,Girish Ratti,Social Media,Quote Sent,Delhi,51.0,Male,Individual Health,7877.0,3.0,Vikram Joshi,2023-03-15
+LEAD0390,Nathan Atwal,Email Campaign,Quote Sent,Delhi,30.0,Male,Individual Health,14992.0,3.0,Anjali Singh,2023-02-25
+LEAD0603,Vivaan Dhar,Website,Quote Sent,Hyderabad,61.0,Female,Family Floater,36957.0,4.0,Rajesh Sharma,2024-11-13
+LEAD0175,Daksha Gokhale,Unknown,Closed Won,Ahmedabad,30.0,Male,Family Floater,30661.0,5.0,Karan Mehta,2024-12-05
+LEAD0378,Finn Desai,Agent Referral,Closed Won,Delhi,40.0,Male,Individual Health,12230.0,4.0,Sneha Reddy,2024-07-03
+LEAD0397,Radhika Bajwa,Email Campaign,Contacted,Ahmedabad,32.0,Male,Critical Illness,11843.0,4.0,Priya Nair,2024-06-10
+LEAD0907,Chanchal Divan,Agent Referral,Closed Won,Surat,68.0,Male,Senior Citizen,60446.0,5.0,Karan Mehta,2024-12-13
+LEAD0645,Aarush Rattan,Google Ads,Negotiation,Bengaluru,39.0,Female,Family Floater,22175.0,3.0,Priya Nair,2023-09-09
+LEAD0108,Yochana Bajaj,Agent Referral,Quote Sent,Ahmedabad,26.0,Male,Group Health,51417.0,3.0,Sneha Reddy,2023-04-21
+LEAD0568,Kiaan Keer,Social Media,Quote Sent,Hyderabad,41.0,Female,Group Health,575673.659345283,2.0,Amit Verma,2024-12-01
+LEAD0714,Fitan Dutta,Website,Quote Sent,Delhi,46.0,Male,Family Floater,32310.0,3.0,Meena Gupta,2024-06-09
+LEAD0611,Yashawini Narayanan,Agent Referral,Closed Won,Pune,41.0,M,Family Floater,19677.0,3.0,Amit Verma,2023-02-24
+LEAD0768,Raagini Bava,Social Media,Closed Won,Bengaluru,59.0,Female,Senior Citizen,89532.0,4.0,Priya Nair,2024-09-10
+LEAD0273,Omaja Apte,Google Ads,Quote Sent,Mumbai,55.0,Female,Senior Citizen,35889.0,1.0,Rajesh Sharma,2023-05-21
+LEAD0306,Victor Purohit,Direct Agent,Contacted,Bhopal,28.0,Male,Family Floater,31330.0,0.0,Anjali Singh,2024-08-14
+LEAD0481,Xalak Biswas,Direct Agent,Negotiation,Chennai,72.0,Male,Senior Citizen,84985.0,3.0,Vikram Joshi,2023-09-22
+LEAD0358,Idika Bhavsar,Website,Negotiation,Mumbai,37.0,Female,Family Floater,15889.0,3.0,Sneha Reddy,2023-11-20
+LEAD0846,Januja Toor,Direct Agent,Closed Won,Kolkata,44.0,Female,Family Floater,19532.0,2.0,Meena Gupta,2023-01-01
+LEAD0333,Kamala Taneja,Website,Negotiation,Bengaluru,18.0,Other,Family Floater,15516.0,2.0,Karan Mehta,2024-08-08
+LEAD0778,Janaki Jaggi,Email Campaign,Negotiation,Coimbatore,41.0,Male,Individual Health,16891.0,2.0,Sneha Reddy,2024-12-27
+LEAD0726,Urvi Mand,Website,Closed Won,Pune,41.0,Female,Senior Citizen,78811.0,0.0,Rajesh Sharma,2023-03-04
+LEAD0514,Sanya Oommen,Agent Referral,Quote Sent,Mumbai,42.0,Male,Individual Health,13169.0,4.0,Suresh Pillai,2023-12-10
+LEAD0693,Hemal Rai,Website,Quote Sent,Kolkata,69.0,Male,Senior Citizen,44078.0,2.0,Suresh Pillai,2024-11-03
+LEAD0913,Falguni Prabhakar,Email Campaign,Closed Won,Ahmedabad,24.0,Male,Individual Health,7996.0,2.0,Deepa Iyer,2023-07-19
+LEAD0370,Janani Master,Social Media,Closed Won,Hyderabad,43.0,Female,Critical Illness,11488.0,1.0,Anjali Singh,2023-01-14
+LEAD0136,Arunima Gola,Unknown,Negotiation,Jaipur,26.0,Male,Critical Illness,14836.0,4.0,Rajesh Sharma,2024-01-09
+LEAD0620,Rudra Venkataraman,Walk-in,Lead,Coimbatore,36.0,Female,Individual Health,9962.0,2.0,Vikram Joshi,2024-09-19
+LEAD0371,Azad Rajagopalan,Agent Referral,Closed Won,Ahmedabad,59.0,Male,Senior Citizen,38509.0,4.0,Amit Verma,2023-09-14
+LEAD0248,Wriddhish Kata,Website,Quote Sent,Kolkata,43.0,Other,Individual Health,11525.0,0.0,Sneha Reddy,2023-02-24
+LEAD0552,Sara Pall,Google Ads,Closed Won,Bengaluru,65.0,Female,Senior Citizen,73456.0,4.0,Deepa Iyer,2023-07-04
+LEAD0300,Lavanya More,Unknown,Quote Sent,Kolkata,37.0,Male,Individual Health,7195.0,1.0,Deepa Iyer,2024-08-23
+LEAD0753,Sudiksha Vig,Google Ads,Negotiation,Ahmedabad,39.0,Male,Group Health,58373.0,3.0,Amit Verma,2024-08-15
+LEAD0374,Anusha Das,Email Campaign,Negotiation,Delhi,18.0,Female,Critical Illness,17760.0,1.0,Priya Nair,2024-10-10
+LEAD0111,Vyanjana Brahmbhatt,Email Campaign,Negotiation,Chennai,38.0,Female,Family Floater,20906.0,3.0,Sneha Reddy,2023-04-08
+LEAD0528,Ryan Choudhury,Email Campaign,Negotiation,Chennai,32.0,Male,Individual Health,7455.0,3.0,Vikram Joshi,2024-06-04
+LEAD0959,Bina Lall,Google Ads,Quote Sent,Hyderabad,18.0,Male,Critical Illness,6605.0,5.0,Vikram Joshi,2024-02-12
+LEAD0786,Ekansh Sarma,Website,Contacted,Chennai,23.0,Female,Individual Health,6789.0,3.0,Karan Mehta,2024-03-24
+LEAD0609,Lavanya Kaur,Google Ads,Negotiation,Patna,28.0,Male,Individual Health,14863.0,7.0,Sneha Reddy,2023-03-10
+LEAD0428,Ekaraj Sarraf,Direct Agent,Closed Won,Kolkata,71.0,Female,Senior Citizen,75010.0,6.0,Meena Gupta,2024-12-16
+LEAD0147,Timothy Kashyap,Other,Lead,Ahmedabad,28.0,Female,Family Floater,13211.0,3.0,Rajesh Sharma,2024-04-13
+LEAD0894,Yahvi Sanghvi,Unknown,Negotiation,Mumbai,28.0,Male,Group Health,34347.0,4.0,Anjali Singh,2023-10-02
+LEAD0794,Dominic Dhillon,Email Campaign,Closed Lost,Unknown,63.0,Male,Individual Health,24977.0,9.0,Vikram Joshi,2024-10-08
+LEAD0437,Niharika Baria,Google Ads,Contacted,Bengaluru,61.0,Male,Individual Health,25151.0,3.0,Suresh Pillai,2024-01-07
+LEAD0817,Baghyawati Muni,Social Media,Contacted,Ahmedabad,49.0,Female,Individual Health,19944.0,3.0,Anjali Singh,2024-01-20
+LEAD0141,Pavani Grover,Direct Agent,Closed Won,Delhi,36.0,Male,Individual Health,7758.0,0.0,Amit Verma,2023-05-30
+LEAD0881,Zilmil Sethi,Social Media,Closed Won,Bhopal,54.0,Female,Critical Illness,28374.0,4.0,Amit Verma,2024-01-10
+LEAD0404,Widisha Kapoor,Website,Negotiation,Delhi,31.0,Female,Critical Illness,24929.0,2.0,Priya Nair,2023-07-04
+LEAD0638,Diya Radhakrishnan,Agent Referral,Quote Sent,Nagpur,65.0,Female,Senior Citizen,47896.0,1.0,Vikram Joshi,2024-11-14
+LEAD0790,Avni Mutti,Direct Agent,Closed Won,Ahmedabad,41.0,Male,Critical Illness,12664.0,4.0,Anjali Singh,2023-06-21
+LEAD0501,Nicholas Krish,Agent Referral,Contacted,Pune,61.0,Female,Family Floater,19974.0,0.0,Priya Nair,2023-12-10
+LEAD0027,Anthony Bora,Walk-in,Contacted,Coimbatore,51.0,Male,Individual Health,8536.0,4.0,Vikram Joshi,2023-04-13
+LEAD0156,Siya Bandi,Google Ads,Closed Lost,Lucknow,36.0,Male,Individual Health,8722.0,1.0,Karan Mehta,2024-05-17
+LEAD0930,Falguni Kulkarni,Agent Referral,Lead,Chennai,41.0,Male,Critical Illness,14633.0,7.0,Deepa Iyer,2023-10-04
+LEAD0825,Chandran Krishnan,Walk-in,Quote Sent,Coimbatore,58.0,Male,Senior Citizen,50063.0,2.0,Priya Nair,2024-05-02
+LEAD0668,Sachi Khosla,Email Campaign,Closed Won,Coimbatore,50.0,Male,Individual Health,11302.0,4.0,Vikram Joshi,2023-05-26
+LEAD0508,Avi Sheth,Email Campaign,Closed Won,Mumbai,32.0,Male,Individual Health,15546.0,2.0,Priya Nair,2023-08-03
+LEAD0606,Abeer Chatterjee,Walk-in,Negotiation,Bengaluru,58.0,Male,Family Floater,32670.0,0.0,Rajesh Sharma,2024-10-16
+LEAD0387,Qushi Sen,Website,Closed Won,Chennai,18.0,Female,Individual Health,9918.0,4.0,Anjali Singh,2024-07-12
+LEAD0100,Aachal Dhar,Agent Referral,Negotiation,Unknown,43.0,Male,Individual Health,16475.0,1.0,Amit Verma,2024-01-15
+LEAD0470,Wazir Ramakrishnan,Walk-in,Closed Won,Kolkata,26.0,Female,Individual Health,10341.0,6.0,Amit Verma,2023-05-22
+LEAD0807,Rushil Bandi,Social Media,Quote Sent,Delhi,19.0,Female,Group Health,19974.0,2.0,Karan Mehta,2023-12-23
+LEAD0167,Vritti Bera,Direct Agent,Closed Won,Kolkata,41.0,Male,Family Floater,13658.0,4.0,Priya Nair,2023-04-10
+LEAD0782,Aarini Hans,Direct Agent,Negotiation,Kolkata,38.0,Male,Group Health,66162.0,7.0,Suresh Pillai,2023-10-08
+LEAD0024,Anjali Mody,Agent Referral,Closed Won,Surat,36.0,Male,Individual Health,8579.0,3.0,Sneha Reddy,2024-06-27
+LEAD0843,Patrick Mann,Agent Referral,Negotiation,Nagpur,56.0,Male,Family Floater,22686.0,6.0,Anjali Singh,2024-05-15
+LEAD0205,Rachit Biswas,Direct Agent,Lead,Hyderabad,50.0,Male,Family Floater,39840.0,2.0,Karan Mehta,2023-06-29
+LEAD0034,Luke Som,Walk-in,Closed Lost,Delhi,41.0,Female,Critical Illness,9150.0,3.0,Anjali Singh,2024-02-27
+LEAD0025,Reyansh Karan,Agent Referral,Lead,Indore,38.0,Male,Individual Health,9029.0,1.0,Sneha Reddy,2024-08-06
+LEAD0550,Onveer Bal,Direct Agent,Quote Sent,Chennai,58.0,Male,Senior Citizen,29070.0,3.0,Amit Verma,2024-06-26
+LEAD0717,Zashil Som,Social Media,Quote Sent,Delhi,38.0,Male,Individual Health,12455.0,3.0,Rajesh Sharma,2023-02-15
+LEAD0619,Vasana Baria,Social Media,Closed Won,Surat,18.0,Female,Group Health,58794.0,4.0,Suresh Pillai,2023-07-09
+LEAD0927,Ansh Deshpande,Agent Referral,Closed Won,Nagpur,32.0,Male,Individual Health,13096.0,3.0,Meena Gupta,2024-02-11
+LEAD0571,Indali Bansal,Google Ads,Contacted,Patna,69.0,Male,Family Floater,50762.0,3.0,Karan Mehta,2024-05-02
+LEAD0010,Aadhya Dara,Social Media,Closed Won,Pune,42.0,Male,Family Floater,29338.0,0.0,Amit Verma,2024-04-24
+LEAD0011,Unni Doshi,Google Ads,Quote Sent,Coimbatore,36.0,Female,Individual Health,10415.0,4.0,Karan Mehta,2024-10-18
+LEAD0080,Manthan Sinha,Unknown,Negotiation,Delhi,37.0,Male,Family Floater,27120.0,5.0,Meena Gupta,2023-04-27
+LEAD0562,Yochana Kulkarni,Direct Agent,Negotiation,Indore,58.0,Male,Critical Illness,21736.0,0.0,Amit Verma,2023-07-27
+LEAD0756,Abdul Borde,Google Ads,Contacted,Chennai,41.0,Male,Critical Illness,14047.0,4.0,Meena Gupta,2023-07-23
+LEAD0119,Abeer Bala,Agent Referral,Lead,Hyderabad,56.0,Male,Senior Citizen,48733.0,2.0,Vikram Joshi,2023-11-12
+LEAD0694,Sanya Kothari,Google Ads,Negotiation,Coimbatore,38.0,Male,Family Floater,31404.0,5.0,Meena Gupta,2023-06-15
+LEAD0235,Mahika Deol,Website,Closed Lost,Lucknow,43.0,Female,Family Floater,16027.0,3.0,Priya Nair,2024-11-05
+LEAD0500,Ekalinga Datta,Social Media,Negotiation,Delhi,38.0,Female,Individual Health,13707.0,4.0,Deepa Iyer,2023-03-29
+LEAD0710,Isaac Pant,Social Media,Negotiation,Unknown,29.0,Male,Group Health,66556.0,4.0,Suresh Pillai,2024-10-04
+LEAD0290,Matthew Radhakrishnan,Agent Referral,Closed Won,Nagpur,44.0,Female,Critical Illness,9079.0,4.0,Rajesh Sharma,2024-04-17
+LEAD0217,Zayyan Sha,Agent Referral,Closed Won,Hyderabad,68.0,Male,Senior Citizen,41940.0,0.0,Amit Verma,2024-05-29
+LEAD0050,Lakshit Khurana,Website,Quote Sent,Pune,25.0,Female,Group Health,60272.0,1.0,Amit Verma,2024-03-05
+LEAD0474,Wazir Kari,Direct Agent,Closed Lost,Kolkata,56.0,Male,Family Floater,23004.0,4.0,Karan Mehta,2023-06-06
+LEAD0564,Watika Buch,Direct Agent,Closed Won,Delhi,41.0,Other,Senior Citizen,23075.0,3.0,Sneha Reddy,2024-04-05
+LEAD0874,Ganga Ray,Walk-in,Quote Sent,Unknown,31.0,Male,Family Floater,22995.0,3.0,Rajesh Sharma,2023-02-22
+LEAD0467,Gayathri Dar,Google Ads,Negotiation,Hyderabad,38.0,Female,Critical Illness,14558.0,2.0,Priya Nair,2024-07-12
+LEAD0593,Ekta Ahluwalia,Agent Referral,Closed Won,Kolkata,34.0,Female,Individual Health,8824.0,1.0,Deepa Iyer,2023-10-26
+LEAD0145,Laksh Andra,Website,Contacted,Coimbatore,60.0,Male,Senior Citizen,34747.0,0.0,Rajesh Sharma,2024-04-26
+LEAD0708,Chaman Jha,Email Campaign,Contacted,Mumbai,30.0,Female,Family Floater,25852.0,6.0,Anjali Singh,2023-11-08
+LEAD0669,Ojasvi Dubey,Email Campaign,Quote Sent,Bhopal,63.0,Male,Senior Citizen,72675.0,4.0,Amit Verma,2023-09-27
+LEAD0775,Yasti Rao,Website,Closed Won,Kolkata,28.0,Male,Critical Illness,13820.0,0.0,Rajesh Sharma,2024-07-20
+LEAD0334,Tanmayi Bassi,Walk-in,Closed Won,Chennai,55.0,Female,Family Floater,33917.0,3.0,Priya Nair,2024-11-04
+LEAD0113,Imaran Kaur,Direct Agent,Closed Won,Kolkata,38.0,Female,Individual Health,17278.0,1.0,Deepa Iyer,2024-03-09
+LEAD0400,Bimala Subramaniam,Direct Agent,Lead,Pune,67.0,Female,Senior Citizen,68907.0,2.0,Vikram Joshi,2024-01-21
+LEAD0945,Umang Shroff,Google Ads,Closed Won,Delhi,18.0,Female,Critical Illness,18501.0,5.0,Vikram Joshi,2023-05-12
+LEAD0652,Radhika Mander,Agent Referral,Closed Lost,Nagpur,24.0,Female,Group Health,68435.0,8.0,Anjali Singh,2024-11-09
+LEAD0384,Ria Uppal,Agent Referral,Quote Sent,Bengaluru,32.0,Male,Individual Health,9145.0,6.0,Vikram Joshi,2024-08-11
+LEAD0339,Zarna Bhasin,Agent Referral,Closed Lost,Chennai,59.0,Male,Senior Citizen,77305.0,1.0,Priya Nair,2023-04-01
+LEAD0573,Liam Madan,Website,Negotiation,Mumbai,22.0,Male,Individual Health,11564.0,3.0,Karan Mehta,2024-07-06
+LEAD0917,Oviya Chakrabarti,Unknown,Lead,Mumbai,55.0,Female,Senior Citizen,53504.0,7.0,Anjali Singh,2023-06-03
+LEAD0628,Gagan Palla,Agent Referral,Lead,Kolkata,45.0,Other,Family Floater,32590.0,2.0,Sneha Reddy,2023-08-25
+LEAD0755,Chakradev Mangal,Social Media,Negotiation,Nagpur,52.0,Female,Family Floater,25556.0,2.0,Anjali Singh,2023-01-07
+LEAD0352,Tamanna Bakshi,Direct Agent,Closed Won,Unknown,39.0,Male,Family Floater,15718.0,4.0,Anjali Singh,2024-10-26
+LEAD0657,Wyatt Apte,Social Media,Closed Won,Jaipur,39.0,Male,Family Floater,16459.0,9.0,Sneha Reddy,2024-10-18
+LEAD0439,Alka Sunder,Agent Referral,Quote Sent,Chennai,63.0,Female,Senior Citizen,39414.0,0.0,Meena Gupta,2023-04-17
+LEAD0805,Panini Gala,Website,Closed Lost,Delhi,60.0,Male,Individual Health,31668.0,3.0,Rajesh Sharma,2024-05-27
+LEAD0647,Brijesh Bora,Unknown,Negotiation,Lucknow,41.0,Female,Critical Illness,20695.0,3.0,Amit Verma,2023-03-07
+LEAD0718,Saksham Dalal,Direct Agent,Closed Lost,Bengaluru,34.0,Male,Critical Illness,22086.0,3.0,Rajesh Sharma,2023-05-22
+LEAD0323,Leela Vaidya,Social Media,Contacted,Nagpur,60.0,Male,Senior Citizen,31220.0,6.0,Anjali Singh,2024-06-11
+LEAD0496,Zaitra Varghese,Website,Lead,Mumbai,32.0,Male,Critical Illness,18866.0,3.0,Priya Nair,2024-07-04
+LEAD0772,Aarav Manne,Website,Negotiation,Hyderabad,21.0,Female,Individual Health,9044.0,3.0,Rajesh Sharma,2024-11-05
+LEAD0834,Vihaan Puri,Agent Referral,Quote Sent,Patna,31.0,Female,Individual Health,11354.0,3.0,Sneha Reddy,2024-04-29
+LEAD0184,Janya Thaker,Website,Closed Lost,Mumbai,72.0,Female,Senior Citizen,45457.0,0.0,Anjali Singh,2023-01-06
+LEAD0368,Krisha Seth,Direct Agent,Closed Won,Kolkata,64.0,Female,Senior Citizen,73326.0,3.0,Priya Nair,2023-08-03
+LEAD0343,Samar Bandi,Walk-in,Negotiation,Delhi,41.0,Female,Critical Illness,14920.0,4.0,Priya Nair,2023-05-15
+LEAD0307,Indira Tak,Agent Referral,Contacted,Lucknow,26.0,Male,Individual Health,8787.0,0.0,Rajesh Sharma,2023-12-17
+LEAD0218,Yashoda Kumar,Website,Contacted,Delhi,28.0,Male,Critical Illness,21304.0,4.0,Sneha Reddy,2024-01-18
+LEAD0866,Nicholas Om,Agent Referral,Contacted,Chennai,46.0,Male,Family Floater,12617.0,5.0,Sneha Reddy,2024-05-14
+LEAD0038,Prisha Tella,Social Media,Closed Won,Chennai,47.0,Male,Individual Health,16798.0,2.0,Vikram Joshi,2024-01-30
+LEAD0314,Chameli Rana,Direct Agent,Quote Sent,Surat,39.0,Male,Individual Health,16738.0,1.0,Vikram Joshi,2024-07-02
+LEAD0567,Jai Mander,Website,Contacted,Lucknow,18.0,Male,Individual Health,6469.0,4.0,Anjali Singh,2023-04-19
+LEAD0189,Kashvi Nadig,Direct Agent,Closed Lost,Mumbai,37.0,Female,Individual Health,15476.0,5.0,Priya Nair,2024-09-17
+LEAD0456,Yashica Pingle,Website,Quote Sent,Patna,27.0,Male,Family Floater,30569.0,5.0,Karan Mehta,2023-07-14
+LEAD0037,Sai Varughese,Website,Contacted,Hyderabad,58.0,Female,Senior Citizen,47070.0,6.0,Amit Verma,2023-01-29
+LEAD0677,Prisha Mutti,Walk-in,Closed Won,Mumbai,23.0,Male,Family Floater,11623.0,6.0,Priya Nair,2024-02-13
+LEAD0478,Girik Saini,Website,Closed Won,Mumbai,57.0,Female,Family Floater,22833.0,0.0,Amit Verma,2024-11-02
+LEAD0850,Yoshita Chauhan,Agent Referral,Negotiation,Coimbatore,41.0,Female,Individual Health,19974.0,6.0,Priya Nair,2024-10-10
+LEAD0637,Rachita Jaggi,Website,Quote Sent,Hyderabad,39.0,Female,Family Floater,22371.0,4.0,Sneha Reddy,2023-01-23
+LEAD0453,Rohan Kota,Direct Agent,Negotiation,Pune,30.0,Male,Individual Health,6146.0,2.0,Rajesh Sharma,2023-09-06
+LEAD0234,Ishani Sha,Website,Negotiation,Ahmedabad,32.0,Female,Group Health,74958.0,5.0,Karan Mehta,2024-03-24
+LEAD0911,Yauvani Balan,Website,Lead,Coimbatore,62.0,Male,Senior Citizen,85384.0,2.0,Vikram Joshi,2023-11-10
+LEAD0752,Praneel Mani,Social Media,Closed Lost,Delhi,33.0,Male,Family Floater,19974.0,6.0,Amit Verma,2023-07-25
+LEAD0406,Alka Batra,Agent Referral,Contacted,Nagpur,69.0,Female,Senior Citizen,34102.0,2.0,Karan Mehta,2023-12-17
+LEAD0702,Peter Merchant,Social Media,Lead,Kolkata,21.0,Female,Individual Health,12888.0,1.0,Suresh Pillai,2024-04-14
+LEAD0066,Rushil Naidu,Direct Agent,Quote Sent,Kolkata,30.0,Male,Group Health,64798.0,1.0,Karan Mehta,2023-05-10
+LEAD0434,Priya Bhardwaj,Social Media,Closed Won,Kolkata,29.0,Male,Individual Health,15443.0,5.0,Amit Verma,2024-11-26
+LEAD0164,Tejas Chandran,Email Campaign,Quote Sent,Kolkata,18.0,Female,Individual Health,9278.0,4.0,Deepa Iyer,2024-08-13
+LEAD0264,Thomas Singhal,Google Ads,Negotiation,Bhopal,60.0,Female,Senior Citizen,73803.0,3.0,Vikram Joshi,2024-09-16
+LEAD0973,Januja Yohannan,Social Media,Closed Lost,Nagpur,41.0,Male,Family Floater,26070.0,0.0,Meena Gupta,2024-12-26
+LEAD0577,Raksha Pandya,Direct Agent,Lead,Delhi,34.0,Male,Family Floater,27433.0,4.0,Suresh Pillai,2023-03-17
+LEAD0236,Forum Shukla,Website,Closed Lost,Unknown,41.0,Male,Family Floater,24934.0,0.0,Suresh Pillai,2024-12-09
+LEAD0176,Azad Singh,Social Media,Negotiation,Unknown,59.0,Male,Senior Citizen,71294.0,3.0,Karan Mehta,2024-08-20
+LEAD0719,Anita Wagle,Social Media,Lead,Delhi,57.0,Female,Individual Health,17067.0,2.0,Deepa Iyer,2024-02-01
+LEAD0477,Rachita Bhalla,Website,Negotiation,Kolkata,35.0,Male,Group Health,73628.0,5.0,Priya Nair,2023-09-30
+LEAD0072,Guneet Chakraborty,Google Ads,Closed Lost,Pune,36.0,Female,Group Health,33721.0,4.0,Vikram Joshi,2024-10-25
+LEAD0933,Gabriel Nagy,Google Ads,Closed Won,Hyderabad,43.0,Female,Family Floater,18506.0,2.0,Anjali Singh,2024-09-03
+LEAD0090,Gabriel Chandran,Direct Agent,Closed Lost,Pune,69.0,Male,Senior Citizen,54768.0,9.0,Vikram Joshi,2023-08-26
+LEAD0118,Ekansh Choudhry,Agent Referral,Contacted,Surat,36.0,Male,Individual Health,12844.0,5.0,Sneha Reddy,2024-09-13
+LEAD0322,Darsh Kaur,Unknown,Contacted,Delhi,39.0,Female,Family Floater,29913.0,4.0,Priya Nair,2024-03-02
+LEAD0616,Dipta Pai,Direct Agent,Negotiation,Mumbai,71.0,Male,Senior Citizen,60062.0,0.0,Sneha Reddy,2024-09-03
+LEAD0948,Vivaan Kapadia,Walk-in,Closed Lost,Jaipur,31.0,Male,Individual Health,13030.0,3.0,Karan Mehta,2023-05-14
+LEAD0533,Pratyush Aggarwal,Agent Referral,Contacted,Ahmedabad,36.0,Female,Individual Health,19974.0,3.0,Vikram Joshi,2024-02-04
+LEAD0062,Rehaan Bhandari,Social Media,Lead,Mumbai,30.0,Female,Family Floater,26398.0,6.0,Karan Mehta,2024-10-23
+LEAD0697,Jasmit Saran,Website,Contacted,Delhi,36.0,Male,Family Floater,19974.0,2.0,Anjali Singh,2023-02-17
+LEAD0187,Kabir Kara,Direct Agent,Negotiation,Bhopal,34.0,Female,Individual Health,10662.0,2.0,Deepa Iyer,2023-12-10
+LEAD0419,Saanvi Ray,Unknown,Closed Lost,Bengaluru,60.0,Male,Critical Illness,25466.0,2.0,Meena Gupta,2023-10-11
+LEAD0402,Yutika Swamy,Direct Agent,Negotiation,Chennai,18.0,Female,Family Floater,21250.0,5.0,Priya Nair,2023-06-11
+LEAD0233,Wakeeta Palla,Website,Negotiation,Jaipur,58.0,Male,Family Floater,34908.0,5.0,Amit Verma,2024-02-07
+LEAD0482,Vamakshi Parmer,Walk-in,Lead,Hyderabad,43.0,Female,Family Floater,19974.0,1.0,Rajesh Sharma,2023-07-25
+LEAD0073,Indali Mani,Direct Agent,Quote Sent,Delhi,69.0,Male,Senior Citizen,64376.0,4.0,Amit Verma,2023-05-08
+LEAD0452,Aadhya Yohannan,Website,Contacted,Surat,31.0,Female,Individual Health,6647.0,2.0,Amit Verma,2024-01-05
+LEAD0271,Ekansh Samra,Direct Agent,Closed Won,Pune,29.0,Male,Individual Health,14344.0,3.0,Priya Nair,2023-06-09
+LEAD0112,Rushil Chand,Walk-in,Negotiation,Delhi,27.0,Male,Individual Health,10894.0,4.0,Rajesh Sharma,2023-04-09
+LEAD0510,Yatan Khosla,Walk-in,Contacted,Pune,24.0,Female,Family Floater,25142.0,6.0,Karan Mehta,2024-05-24
+LEAD0566,Nihal Dubey,Website,Lead,Ahmedabad,41.0,Male,Critical Illness,8470.0,4.0,Karan Mehta,2023-05-14
+LEAD0819,Kavya Pau,Direct Agent,Closed Lost,Mumbai,31.0,Male,Individual Health,12583.0,1.0,Sneha Reddy,2024-12-16
+LEAD0227,Mitesh Majumdar,Direct Agent,Quote Sent,Mumbai,46.0,Male,Family Floater,19974.0,4.0,Rajesh Sharma,2023-07-11
+LEAD0330,Urmi Chadha,Other,Negotiation,Mumbai,32.0,Female,Group Health,58422.0,3.0,Vikram Joshi,2024-08-31
+LEAD0595,Raksha Munshi,Website,Contacted,Kolkata,29.0,Female,Family Floater,17098.0,3.0,Suresh Pillai,2023-11-10
+LEAD0935,Amol Bajwa,Unknown,Negotiation,Mumbai,38.0,Female,Family Floater,19974.0,0.0,Rajesh Sharma,2024-04-06
+LEAD0196,Gaurav Batra,Agent Referral,Closed Won,Mumbai,45.0,Male,Family Floater,26858.0,2.0,Vikram Joshi,2023-02-26
+LEAD0337,Reva Mani,Google Ads,Quote Sent,Mumbai,37.0,Male,Family Floater,19974.0,1.0,Suresh Pillai,2023-06-04
+LEAD0479,Jhalak Wagle,Social Media,Contacted,Nagpur,30.0,Male,Family Floater,17986.0,4.0,Suresh Pillai,2023-08-28
+LEAD0760,Tarak Naidu,Website,Closed Lost,Hyderabad,48.0,Male,Group Health,73440.0,2.0,Rajesh Sharma,2024-09-22
+LEAD0029,Pooja Sagar,Walk-in,Closed Won,Kolkata,58.0,Female,Individual Health,19974.0,0.0,Priya Nair,2023-04-20
+LEAD0570,Faraj Nanda,Agent Referral,Lead,Patna,45.0,Male,Individual Health,5630.0,0.0,Deepa Iyer,2023-06-11
+LEAD0889,Krish Guha,Email Campaign,Contacted,Ahmedabad,32.0,Male,Group Health,47031.0,3.0,Karan Mehta,2024-12-05
+LEAD0475,Forum Krish,Agent Referral,Negotiation,Pune,40.0,Female,Family Floater,13821.0,4.0,Priya Nair,2023-12-11
+LEAD0138,Logan Doshi,Social Media,Negotiation,Surat,69.0,Male,Family Floater,45336.0,7.0,Priya Nair,2023-07-24
+LEAD0539,Pavani Bumb,Google Ads,Contacted,Lucknow,33.0,Male,Family Floater,26747.0,0.0,Vikram Joshi,2024-07-19
+LEAD0744,Hema Sarkar,Email Campaign,Lead,Coimbatore,50.0,Female,Individual Health,13966.0,2.0,Meena Gupta,2023-02-25
+LEAD0921,Urvashi Bava,Direct Agent,Contacted,Surat,38.0,Male,Critical Illness,10418.0,4.0,Suresh Pillai,2024-05-25
+LEAD0394,Priya Sahota,Agent Referral,Closed Won,Kolkata,33.0,Male,Family Floater,26684.0,2.0,Suresh Pillai,2023-05-24
+LEAD0383,Banjeet Sehgal,Google Ads,Closed Won,Delhi,46.0,F,Critical Illness,13721.0,4.0,Anjali Singh,2024-03-21
+LEAD0978,Vrishti Singh,Website,Lead,Pune,48.0,Male,Family Floater,135846.146288811,5.0,Deepa Iyer,2024-10-23
+LEAD0975,Qadim Prakash,Direct Agent,Closed Won,Delhi,43.0,Male,Critical Illness,10914.0,5.0,Priya Nair,2023-04-20
+LEAD0680,Pooja Pillay,Agent Referral,Closed Won,Hyderabad,44.0,Male,Family Floater,34165.0,5.0,Vikram Joshi,2024-04-19
+LEAD0757,Kala Dass,Email Campaign,Closed Won,Delhi,44.0,Male,Individual Health,7657.0,1.0,Priya Nair,2023-09-26
+LEAD0709,Omisha Kunda,Google Ads,Negotiation,Hyderabad,26.0,Male,Family Floater,26704.0,3.0,Deepa Iyer,2023-05-08
+LEAD0329,Yagnesh Rattan,Unknown,Negotiation,Jaipur,53.0,Female,Critical Illness,24958.0,4.0,Sneha Reddy,2023-08-12
+LEAD0013,Quincy Puri,Social Media,Lead,Delhi,44.0,Female,Family Floater,29728.0,3.0,Vikram Joshi,2023-01-01
+LEAD0586,Indrajit Bobal,Google Ads,Quote Sent,Surat,35.0,Male,Family Floater,14212.0,2.0,Priya Nair,2024-12-02
+LEAD0905,Aarush Dhillon,Agent Referral,Closed Lost,Unknown,37.0,Male,Family Floater,21102.0,0.0,Suresh Pillai,2023-03-03
+LEAD0207,Ishaan Mittal,Direct Agent,Negotiation,Bengaluru,42.0,Male,Critical Illness,21522.0,0.0,Sneha Reddy,2023-03-01
+LEAD0104,Advay Gopal,Other,Closed Lost,Bengaluru,61.0,Male,Senior Citizen,58083.0,5.0,Anjali Singh,2024-07-21
+LEAD0463,Hema Raman,Website,Closed Won,Coimbatore,32.0,Female,Family Floater,19974.0,6.0,Anjali Singh,2023-09-30
+LEAD0310,Charvi Sandal,Agent Referral,Closed Won,Bengaluru,58.0,Female,Family Floater,32395.0,4.0,Sneha Reddy,2023-02-25
+LEAD0495,Mitali Malhotra,Social Media,Negotiation,Nagpur,37.0,Female,Family Floater,26289.0,2.0,Vikram Joshi,2024-07-03
+LEAD0223,Gunbir Madan,Google Ads,Closed Lost,Indore,34.0,Female,Family Floater,14131.0,2.0,Karan Mehta,2024-12-06
+LEAD0154,Ishita Borah,Direct Agent,Lead,Hyderabad,28.0,Female,Family Floater,22738.0,3.0,Deepa Iyer,2024-01-15
+LEAD0181,Vedika Keer,Social Media,Closed Lost,Coimbatore,21.0,Male,Individual Health,11501.0,1.0,Deepa Iyer,2024-01-24
+LEAD0640,Jagat Sama,Email Campaign,Quote Sent,Mumbai,35.0,Female,Individual Health,13372.0,2.0,Rajesh Sharma,2024-06-27
+LEAD0183,Warinder Batta,Google Ads,Quote Sent,Coimbatore,42.0,Male,Individual Health,6421.0,5.0,Vikram Joshi,2023-09-06
+LEAD0872,Hema Yohannan,Agent Referral,Contacted,Bengaluru,23.0,Female,Family Floater,29271.0,5.0,Karan Mehta,2023-09-27
+LEAD0332,Lila Handa,Agent Referral,Negotiation,Bengaluru,45.0,Male,Critical Illness,11829.0,6.0,Sneha Reddy,2023-11-24
+LEAD0464,Abeer Kulkarni,Walk-in,Contacted,Bengaluru,55.0,Male,Group Health,58134.0,3.0,Karan Mehta,2024-06-28
+LEAD0142,Lopa Narayan,Email Campaign,Closed Won,Chennai,55.0,Female,Senior Citizen,39283.0,4.0,Deepa Iyer,2023-03-23
+LEAD0650,Sanya Lalla,Agent Referral,Lead,Coimbatore,33.0,Female,Individual Health,10166.0,2.0,Amit Verma,2024-02-23
+LEAD0767,Pranit Bawa,Agent Referral,Quote Sent,Kolkata,32.0,female,Individual Health,19974.0,1.0,Rajesh Sharma,2024-01-04
+LEAD0537,Janaki Swaminathan,Website,Closed Won,Delhi,35.0,Male,Critical Illness,11749.0,4.0,Sneha Reddy,2023-10-23
+LEAD0759,Ishani Basak,Other,Contacted,Unknown,30.0,Female,Critical Illness,11056.0,3.0,Rajesh Sharma,2023-05-28
+LEAD0699,Ranveer Choudhary,Website,Closed Lost,Kolkata,18.0,Male,Individual Health,7794.0,0.0,Priya Nair,2024-01-06
+LEAD0317,Yoshita Vig,Walk-in,Quote Sent,Bengaluru,45.0,Female,Critical Illness,18686.0,2.0,Amit Verma,2024-02-11
+LEAD0416,Ubika Varkey,Website,Closed Lost,Jaipur,52.0,Male,Group Health,19974.0,3.0,Deepa Iyer,2024-03-25
+LEAD0211,Lipika Chander,Direct Agent,Quote Sent,Bengaluru,41.0,Male,Family Floater,27074.0,0.0,Amit Verma,2024-01-04
+LEAD0516,Nikita Sunder,Direct Agent,Closed Won,Bengaluru,41.0,Female,Family Floater,19974.0,4.0,Deepa Iyer,2023-07-11
+LEAD0143,Guneet Mohanty,Website,Quote Sent,Pune,68.0,Female,Senior Citizen,68645.0,3.0,Rajesh Sharma,2023-09-02
+LEAD0003,Aryan Krishna,Agent Referral,Closed Won,Surat,32.0,Female,Family Floater,19974.0,2.0,Priya Nair,2023-12-11
+LEAD0363,Eta Sharma,Agent Referral,Closed Lost,Jaipur,35.0,Female,Family Floater,19064.0,3.0,Meena Gupta,2024-02-07
+LEAD0005,Jacob Deol,Website,Quote Sent,Indore,57.0,Female,Senior Citizen,60966.0,0.0,Priya Nair,2023-10-24
+LEAD0045,Karan Khatri,Social Media,Closed Lost,Surat,21.0,Male,Individual Health,12220.0,11.0,Priya Nair,2024-12-13
+LEAD0940,Kalpit Bath,Email Campaign,Negotiation,Mumbai,30.0,Male,Individual Health,14133.0,5.0,Meena Gupta,2023-04-17
+LEAD0282,Zilmil Dass,Other,Negotiation,Mumbai,68.0,Male,Senior Citizen,69097.0,5.0,Suresh Pillai,2024-06-16
+LEAD0672,Jonathan Balakrishnan,Email Campaign,Closed Lost,Indore,30.0,Male,Individual Health,19974.0,2.0,Suresh Pillai,2023-07-04
+LEAD0203,Girindra Dua,Website,Closed Lost,Mumbai,69.0,Male,Senior Citizen,55702.0,5.0,Karan Mehta,2024-02-16
+LEAD0303,Urishilla Ravel,Other,Closed Won,Hyderabad,21.0,Female,Group Health,35368.0,5.0,Deepa Iyer,2024-09-18
+LEAD0556,Tanay Nair,Social Media,Quote Sent,Unknown,60.0,Male,Senior Citizen,33046.0,6.0,Anjali Singh,2023-09-21
+LEAD0366,Jyoti Nagarajan,Agent Referral,Negotiation,Surat,54.0,Female,Family Floater,28344.0,7.0,Suresh Pillai,2024-05-31
+LEAD0359,Turvi Deo,Agent Referral,Closed Won,Hyderabad,30.0,Male,Family Floater,19974.0,2.0,Anjali Singh,2024-09-25
+LEAD0543,Raghav Chaudhari,Website,Negotiation,Patna,41.0,Male,Individual Health,10415.0,1.0,Meena Gupta,2023-10-29
+LEAD0513,Ranbir Vyas,Direct Agent,Quote Sent,Bengaluru,59.0,Male,Family Floater,19974.0,4.0,Anjali Singh,2023-07-18
+LEAD0372,Chatresh Lal,Social Media,Closed Lost,Mumbai,41.0,Female,Individual Health,25110.0,7.0,Karan Mehta,2023-08-18
+LEAD0684,Falan Boase,Website,Closed Lost,Mumbai,69.0,Female,Senior Citizen,53889.0,1.0,Karan Mehta,2024-11-17
+LEAD0582,Kashish Sathe,Other,Closed Lost,Mumbai,46.0,Female,Individual Health,15847.0,5.0,Karan Mehta,2023-02-04
+LEAD0379,Upkaar Pradhan,Direct Agent,Closed Lost,Delhi,41.0,Male,Family Floater,38556.0,8.0,Karan Mehta,2024-06-27
+LEAD0232,Dhruv Atwal,Email Campaign,Closed Lost,Chennai,61.0,Male,Senior Citizen,72292.0,3.0,Amit Verma,2024-09-09
+LEAD0238,Dominic Parsa,Direct Agent,Negotiation,Ahmedabad,58.0,Other,Senior Citizen,47536.0,3.0,Sneha Reddy,2023-01-11
+LEAD0933,Gabriel Nagy,Google Ads,Closed Won,Hyderabad,43.0,Female,Family Floater,18506.0,2.0,Anjali Singh,2024-09-03
+LEAD0172,Ranbir Swaminathan,Agent Referral,Contacted,Ahmedabad,18.0,Other,Group Health,56178.0,2.0,Anjali Singh,2023-12-14
+LEAD0274,Chakradhar Varughese,Direct Agent,Lead,Bengaluru,55.0,Female,Senior Citizen,48261.0,0.0,Karan Mehta,2023-05-01
+LEAD0674,Liam Jayaraman,Direct Agent,Contacted,Mumbai,43.0,Male,Individual Health,14104.0,6.0,Rajesh Sharma,2024-01-18
+LEAD0548,Garima Shan,Agent Referral,Closed Won,Jaipur,41.0,Female,Family Floater,14220.0,6.0,Rajesh Sharma,2023-09-28
+LEAD0909,Hardik Dasgupta,Social Media,Quote Sent,Hyderabad,26.0,Female,Family Floater,27407.0,8.0,Vikram Joshi,2023-11-03
+LEAD0195,Rehaan Ganesan,Agent Referral,Closed Won,Kolkata,33.0,Male,Family Floater,19974.0,6.0,Vikram Joshi,2023-06-03
+LEAD0711,Sarthak Ahluwalia,Social Media,Closed Lost,Bengaluru,62.0,Male,Senior Citizen,36598.0,4.0,Karan Mehta,2024-06-16
+LEAD0103,Osha Bhatti,Unknown,Closed Lost,Bengaluru,38.0,Male,Group Health,63030.0,1.0,Rajesh Sharma,2023-08-06
+LEAD0764,Benjamin Shetty,Email Campaign,Negotiation,Delhi,58.0,Male,Family Floater,31072.0,1.0,Suresh Pillai,2024-08-08
+LEAD0503,Baljiwan Divan,Agent Referral,Quote Sent,Surat,22.0,Male,Family Floater,22833.0,3.0,Anjali Singh,2024-09-14
+LEAD0210,Anusha Borde,Agent Referral,Quote Sent,Coimbatore,18.0,Male,Group Health,33286.0,4.0,Rajesh Sharma,2024-05-05
+LEAD0922,Upasna Deshpande,Website,Closed Lost,Mumbai,41.0,Male,Family Floater,20452.0,2.0,Karan Mehta,2024-04-16
+LEAD0661,Janani Murthy,Email Campaign,Contacted,Bengaluru,39.0,Male,Individual Health,19974.0,1.0,Deepa Iyer,2023-06-02
+LEAD0163,Robert Mishra,Website,Negotiation,Kolkata,41.0,Male,Individual Health,14607.0,2.0,Priya Nair,2024-11-05
+LEAD0671,Harshil Natt,Direct Agent,Quote Sent,Mumbai,56.0,Male,Senior Citizen,71852.0,5.0,Meena Gupta,2024-05-21
+LEAD0492,Vincent Bhavsar,Direct Agent,Quote Sent,Ahmedabad,41.0,FEMALE,Senior Citizen,61516.0,0.0,Vikram Joshi,2024-09-11
+LEAD0660,Lekha Pandya,Website,Lead,Indore,44.0,Male,Individual Health,16266.0,2.0,Vikram Joshi,2024-09-18
+LEAD0088,Qadim Loke,Walk-in,Quote Sent,Pune,59.0,Male,Group Health,120766.0,4.0,Sneha Reddy,2023-04-11
+LEAD0733,Kavya Nanda,Agent Referral,Closed Won,Pune,55.0,Male,Senior Citizen,22793.0,8.0,Rajesh Sharma,2024-05-02
+LEAD0598,Azaan Bhavsar,Unknown,Closed Won,Ahmedabad,35.0,Female,Individual Health,10611.0,5.0,Meena Gupta,2024-06-30
+LEAD0663,Banjeet Gaba,Website,Quote Sent,Bengaluru,18.0,Female,Individual Health,14528.0,6.0,Deepa Iyer,2023-10-17
+LEAD0398,Atharv Ramachandran,Unknown,Lead,Ahmedabad,70.0,Female,Senior Citizen,46078.0,2.0,Amit Verma,2023-08-13
+LEAD0527,Nimrat Chanda,Direct Agent,Closed Won,Bengaluru,56.0,Female,Individual Health,19862.0,1.0,Amit Verma,2023-11-29
+LEAD0191,Aahana Subramaniam,Walk-in,Lead,Surat,39.0,Male,Individual Health,11176.0,3.0,Rajesh Sharma,2024-10-31
+LEAD0179,Janaki Munshi,Agent Referral,Closed Won,Bengaluru,47.0,Male,Critical Illness,20735.0,1.0,Amit Verma,2024-11-28
+LEAD0393,Vamakshi Nayak,Google Ads,Quote Sent,Lucknow,55.0,Male,Family Floater,31171.0,7.0,Amit Verma,2024-11-26
+LEAD0644,Ikbal Dada,Google Ads,Closed Lost,Delhi,47.0,Male,Individual Health,18454.0,0.0,Amit Verma,2023-03-07
+LEAD0554,Alka Kalita,Walk-in,Closed Won,Indore,32.0,Female,Family Floater,15280.0,5.0,Rajesh Sharma,2024-09-11
+LEAD0902,Udyati Taneja,Agent Referral,Closed Won,Chennai,51.0,Female,Family Floater,28424.0,2.0,Amit Verma,2023-04-03
+LEAD0686,Siya Magar,Website,Contacted,Chennai,66.0,Female,Senior Citizen,74350.0,3.0,Karan Mehta,2023-11-07
+LEAD0512,Anya Kale,Google Ads,Closed Lost,Kolkata,23.0,Male,Individual Health,9330.0,5.0,Amit Verma,2023-03-11
+LEAD0685,Sudiksha Sachdev,Other,Closed Won,Mumbai,57.0,Male,Individual Health,9151.0,3.0,Sneha Reddy,2023-01-19
+LEAD0440,Tristan Natarajan,Unknown,Closed Lost,Surat,48.0,Male,Individual Health,19753.0,6.0,Priya Nair,2023-02-05
+LEAD0472,Yadavi Goda,Google Ads,Closed Won,Patna,38.0,Male,Critical Illness,20502.0,3.0,Deepa Iyer,2023-02-08
+LEAD0399,Gayathri Vasa,Direct Agent,Closed Won,Patna,34.0,Male,Family Floater,21940.0,5.0,Rajesh Sharma,2024-10-26
+LEAD0579,Tarak Sura,Direct Agent,Negotiation,Kolkata,30.0,Male,Individual Health,9313.0,3.0,Sneha Reddy,2023-12-18
+LEAD0485,Ati Merchant,Agent Referral,Quote Sent,Patna,41.0,Male,Individual Health,9191.0,3.0,Amit Verma,2024-02-07
+LEAD0943,Nandini Raju,Direct Agent,Quote Sent,Bhopal,39.0,Male,Critical Illness,7647.0,4.0,Sneha Reddy,2023-09-05
+LEAD0727,Ethan Gera,Walk-in,Negotiation,Pune,27.0,Male,Individual Health,9733.0,1.0,Vikram Joshi,2023-04-14
+LEAD0044,Mason Iyengar,Google Ads,Negotiation,Unknown,61.0,Male,Senior Citizen,68966.0,6.0,Suresh Pillai,2024-08-12
+LEAD0262,Omya Gill,Agent Referral,Closed Won,Delhi,19.0,Male,Family Floater,28738.0,1.0,Sneha Reddy,2023-01-09
+LEAD0626,Sneha Sinha,Website,Negotiation,Hyderabad,18.0,Male,Individual Health,10184.0,4.0,Meena Gupta,2023-03-08
+LEAD0430,Lila Rajan,Website,Closed Lost,Hyderabad,60.0,Male,Senior Citizen,48744.0,6.0,Sneha Reddy,2024-04-06
+LEAD0229,Raksha Sem,Walk-in,Closed Won,Patna,25.0,Male,Group Health,35024.0,5.0,Priya Nair,2024-01-25
+LEAD0006,Karan More,Direct Agent,Closed Won,Delhi,60.0,Female,Senior Citizen,87918.0,1.0,Deepa Iyer,2023-03-15
+LEAD0966,Radha Din,Website,Negotiation,Hyderabad,41.0,Female,Individual Health,12640.0,4.0,Sneha Reddy,2024-12-14
+LEAD0799,Lakshit Chadha,Direct Agent,Closed Won,Surat,65.0,Male,Individual Health,30174.0,7.0,Suresh Pillai,2023-09-12
+LEAD0319,Yauvani Yadav,Social Media,Negotiation,Mumbai,55.0,Male,Senior Citizen,38608.0,4.0,Suresh Pillai,2024-02-25
+LEAD0877,Hritik Mohanty,Website,Closed Lost,Pune,51.0,Male,Individual Health,9571.0,6.0,Amit Verma,2023-04-25
+LEAD0313,Chaaya Bail,Email Campaign,Closed Lost,Bengaluru,35.0,Male,Family Floater,19974.0,2.0,Karan Mehta,2023-04-10
+LEAD0076,Samar Nadkarni,Website,Quote Sent,Pune,31.0,Female,Individual Health,7481.0,3.0,Amit Verma,2024-11-17
+LEAD0174,Vamakshi Mittal,Other,Closed Lost,Delhi,72.0,Female,Senior Citizen,87897.0,2.0,Amit Verma,2024-06-05
+LEAD0821,Pooja Palan,Other,Negotiation,Delhi,18.0,Male,Group Health,24881.0,5.0,Rajesh Sharma,2024-01-04
+LEAD0052,Oliver Pingle,Walk-in,Contacted,Kolkata,45.0,Other,Family Floater,15459.0,2.0,Rajesh Sharma,2024-03-14
+LEAD0776,Harrison Raj,Agent Referral,Lead,Chennai,39.0,Female,Individual Health,9692.0,5.0,Amit Verma,2023-08-27
+LEAD0899,Patrick Mody,Direct Agent,Contacted,Coimbatore,41.0,Male,Family Floater,111493.060893683,4.0,Suresh Pillai,2023-03-28
+LEAD0221,Urmi Kakar,Walk-in,Lead,Delhi,66.0,Female,Senior Citizen,65260.0,2.0,Amit Verma,2023-03-18
+LEAD0509,Henry Sahota,Website,Contacted,Unknown,24.0,Female,Individual Health,8694.0,1.0,Deepa Iyer,2024-12-24
+LEAD0569,Hemangini Yohannan,Agent Referral,Negotiation,Delhi,26.0,Female,Individual Health,8753.0,4.0,Amit Verma,2024-03-01
+LEAD0388,Rayaan Parekh,Social Media,Closed Won,Patna,72.0,Female,Senior Citizen,19974.0,6.0,Meena Gupta,2024-07-20
+LEAD0094,Yashodhara Chana,Direct Agent,Negotiation,Delhi,58.0,Male,Senior Citizen,30075.0,0.0,Deepa Iyer,2023-05-21
+LEAD0149,Kamala Rout,Unknown,Closed Lost,Lucknow,68.0,Male,Individual Health,24391.0,2.0,Amit Verma,2024-02-14
+LEAD0483,Avni Mane,Direct Agent,Closed Won,Mumbai,27.0,Female,Individual Health,5680.0,0.0,Deepa Iyer,2023-04-21
+LEAD0832,Kevin Tailor,Website,Quote Sent,Jaipur,32.0,Other,Critical Illness,9629.0,7.0,Karan Mehta,2024-01-21
+LEAD0250,Ishani Kant,Direct Agent,Negotiation,Mumbai,25.0,Male,Individual Health,14105.0,5.0,Vikram Joshi,2024-05-22
+LEAD0341,Raagini Bhavsar,Email Campaign,Closed Won,Delhi,51.0,female,Individual Health,19974.0,3.0,Vikram Joshi,2023-11-10
+LEAD0613,Dayamai Sethi,Email Campaign,Closed Won,Kolkata,35.0,Female,Critical Illness,18686.0,1.0,Amit Verma,2024-12-02
+LEAD0201,Gabriel Saini,Google Ads,Contacted,Bengaluru,33.0,Male,Family Floater,26280.0,5.0,Anjali Singh,2023-09-11
+LEAD0092,Vedika Mander,Email Campaign,Closed Lost,Unknown,44.0,Male,Individual Health,16932.0,8.0,Amit Verma,2023-10-30
+LEAD0541,Tristan Iyengar,Google Ads,Quote Sent,Chennai,36.0,Male,Individual Health,12799.0,3.0,Meena Gupta,2023-10-14
+LEAD0443,Geetika Brahmbhatt,Agent Referral,Closed Won,Hyderabad,35.0,Male,Individual Health,11284.0,3.0,Karan Mehta,2023-05-20
+LEAD0962,Elijah Tella,Walk-in,Closed Lost,Jaipur,56.0,male,Critical Illness,35708.0,4.0,Vikram Joshi,2024-10-23
+LEAD0281,Lohit Raman,Direct Agent,Closed Won,Mumbai,58.0,Female,Senior Citizen,50785.0,5.0,Karan Mehta,2023-11-11
+LEAD0411,Varsha Pandit,Google Ads,Quote Sent,Ahmedabad,18.0,Male,Individual Health,12673.0,2.0,Priya Nair,2024-10-29
+LEAD0608,Yochana Thaker,Agent Referral,Contacted,Chennai,53.0,Female,Individual Health,15628.0,5.0,Meena Gupta,2024-10-13
+LEAD0599,Anamika Chand,Social Media,Quote Sent,Coimbatore,54.0,Male,Group Health,62880.0,2.0,Priya Nair,2024-07-13
+LEAD0906,Fiyaz Rajagopal,Website,Closed Won,Delhi,41.0,Female,Critical Illness,15467.0,6.0,Meena Gupta,2024-03-07
+LEAD0336,Kai Palan,Direct Agent,Quote Sent,Bengaluru,68.0,Female,Individual Health,23670.0,5.0,Sneha Reddy,2024-10-11
+LEAD0851,Kalpit Thakkar,Unknown,Lead,Ahmedabad,23.0,Female,Individual Health,9224.0,0.0,Amit Verma,2024-03-20
+LEAD0604,Upkaar Khare,Direct Agent,Negotiation,Mumbai,31.0,Male,Individual Health,17387.0,4.0,Vikram Joshi,2023-08-09
+LEAD0903,Samesh Bandi,Website,Quote Sent,Bengaluru,59.0,Male,Senior Citizen,52668.0,3.0,Anjali Singh,2023-12-08
+LEAD0507,Aarini Dixit,Social Media,Closed Won,Mumbai,42.0,Male,Individual Health,13516.0,0.0,Anjali Singh,2024-03-13
+LEAD0735,Matthew Kapoor,Google Ads,Closed Lost,Ahmedabad,32.0,Female,Family Floater,23192.0,3.0,Anjali Singh,2024-01-02
+LEAD0849,Sai Narula,Google Ads,Closed Lost,Delhi,33.0,Male,Individual Health,12554.0,5.0,Amit Verma,2023-06-17
+LEAD0093,Isaac Sandal,Website,Closed Lost,Bengaluru,70.0,Female,Senior Citizen,61771.0,2.0,Rajesh Sharma,2024-09-12
+LEAD0725,Qushi Gole,Agent Referral,Closed Won,Bengaluru,41.0,Female,Individual Health,19974.0,3.0,Priya Nair,2023-05-04
+LEAD0721,Nilima Dyal,Website,Contacted,Coimbatore,71.0,Male,Senior Citizen,25261.0,8.0,Vikram Joshi,2024-05-02
+LEAD0842,Tristan Dyal,Website,Closed Lost,Delhi,53.0,Female,Family Floater,24593.0,0.0,Vikram Joshi,2023-04-12
+LEAD0891,Rehaan Yohannan,Direct Agent,Negotiation,Jaipur,52.0,Male,Critical Illness,15927.0,2.0,Priya Nair,2023-07-09
+LEAD0576,Yashvi Bobal,Agent Referral,Contacted,Kolkata,49.0,Male,Individual Health,11888.0,1.0,Vikram Joshi,2024-03-05
+LEAD0574,George Nigam,Social Media,Contacted,Delhi,60.0,Male,Senior Citizen,26745.0,4.0,Sneha Reddy,2023-06-30
+LEAD0279,Hredhaan Tak,Website,Quote Sent,Bengaluru,31.0,Female,Individual Health,16202.0,2.0,Vikram Joshi,2023-11-08
+LEAD0280,Mekhala Ben,Social Media,Negotiation,Unknown,55.0,Female,Senior Citizen,48190.0,2.0,Anjali Singh,2023-06-04
+LEAD0338,Ekalinga Sane,Other,Quote Sent,Bhopal,41.0,Other,Individual Health,15103.0,6.0,Priya Nair,2023-03-24
+LEAD0228,Rehaan Rout,Agent Referral,Closed Won,Hyderabad,42.0,Male,Family Floater,19974.0,7.0,Amit Verma,2023-10-26
+LEAD0009,Vasatika Kala,Website,Lead,Surat,62.0,Male,Senior Citizen,43442.0,4.0,Vikram Joshi,2024-01-06
+LEAD0086,Faqid Vasa,Walk-in,Quote Sent,Mumbai,21.0,Female,Individual Health,6288.0,7.0,Suresh Pillai,2023-06-08
+LEAD0731,Yauvani Khurana,Agent Referral,Closed Lost,Hyderabad,37.0,male,Individual Health,9170.0,6.0,Amit Verma,2024-03-18
+LEAD0698,Libni Sant,Google Ads,Closed Lost,Kolkata,58.0,Female,Senior Citizen,40194.0,2.0,Sneha Reddy,2024-04-13
+LEAD0955,Omya Sem,Google Ads,Negotiation,Mumbai,26.0,Male,Individual Health,11710.0,5.0,Priya Nair,2023-04-05
+LEAD0820,Robert Bahl,Email Campaign,Quote Sent,Pune,54.0,Male,Individual Health,16196.0,4.0,Anjali Singh,2024-01-13
+LEAD0097,Warhi Bera,Social Media,Lead,Indore,37.0,Female,Group Health,27826.0,4.0,Anjali Singh,2024-01-10
+LEAD0342,Tara Narain,Website,Quote Sent,Chennai,34.0,Female,Family Floater,22533.0,2.0,Deepa Iyer,2023-05-18
+LEAD0122,Vedika Thaker,Agent Referral,Lead,Hyderabad,18.0,Female,Individual Health,12143.0,1.0,Anjali Singh,2024-09-24
+LEAD0157,Kabir Kulkarni,Website,Closed Won,Patna,46.0,Male,Individual Health,213093.870822488,4.0,Anjali Singh,2023-11-24
+LEAD0932,Nitesh Dada,Social Media,Contacted,Bengaluru,45.0,Female,Individual Health,14329.0,2.0,Sneha Reddy,2024-05-01
+LEAD0629,Charan Dutta,Website,Negotiation,Nagpur,30.0,Female,Individual Health,8502.0,5.0,Deepa Iyer,2023-12-01
+LEAD0770,Shivani Ramesh,Direct Agent,Closed Lost,Delhi,38.0,Female,Individual Health,14679.0,3.0,Sneha Reddy,2024-06-12
+LEAD0471,Aadi Kara,Social Media,Quote Sent,Delhi,41.0,Female,Individual Health,17319.0,1.0,Suresh Pillai,2023-03-21
+LEAD0558,Osha Dugar,Website,Closed Won,Kolkata,18.0,Male,Family Floater,12387.0,7.0,Sneha Reddy,2023-09-23
+LEAD0294,Yauvani Koshy,Direct Agent,Closed Won,Kolkata,40.0,Male,Individual Health,10602.0,3.0,Vikram Joshi,2023-01-31
+LEAD0802,Xavier Kulkarni,Direct Agent,Closed Won,Delhi,38.0,Male,Individual Health,13466.0,5.0,Deepa Iyer,2023-10-06
+LEAD0728,Ishani Konda,Website,Contacted,Kolkata,54.0,Male,Critical Illness,24768.0,5.0,Anjali Singh,2023-05-26
+LEAD0165,Wriddhish Narang,Google Ads,Lead,Chennai,40.0,Female,Individual Health,11387.0,4.0,Sneha Reddy,2024-12-02
+LEAD0729,Yug Ahuja,Website,Lead,Unknown,18.0,Female,Individual Health,9064.0,3.0,Meena Gupta,2024-09-27
+LEAD0283,Caleb Halder,Direct Agent,Closed Won,Ahmedabad,44.0,Male,Family Floater,19758.0,2.0,Deepa Iyer,2023-05-14
+LEAD0365,William Ghosh,Agent Referral,Contacted,Kolkata,42.0,Male,Group Health,19974.0,5.0,Sneha Reddy,2024-06-04
+LEAD0311,Abhiram Kunda,Website,Quote Sent,Pune,36.0,F,Individual Health,13758.0,5.0,Deepa Iyer,2023-03-25
+LEAD0511,William Kalla,Agent Referral,Quote Sent,Delhi,25.0,Male,Family Floater,30232.0,5.0,Karan Mehta,2023-08-01
+LEAD0180,Barkha Biswas,Direct Agent,Quote Sent,Kolkata,41.0,Male,Group Health,70235.0,7.0,Amit Verma,2023-08-01
+LEAD0070,Zaitra Narayan,Agent Referral,Closed Won,Coimbatore,23.0,Female,Individual Health,11470.0,6.0,Priya Nair,2023-06-27
+LEAD0914,Udarsh Bhatti,Agent Referral,Closed Won,Indore,18.0,Female,Individual Health,5474.0,3.0,Rajesh Sharma,2024-09-03
+LEAD0875,Girik Raval,Direct Agent,Closed Won,Delhi,23.0,Female,Family Floater,12721.0,4.0,Deepa Iyer,2023-11-08
+LEAD0670,Chandani Vig,Unknown,Closed Won,Surat,43.0,Other,Critical Illness,13338.0,3.0,Anjali Singh,2023-02-24
+LEAD0928,Chanchal Sawhney,Other,Closed Won,Bengaluru,42.0,Male,Family Floater,19974.0,1.0,Sneha Reddy,2023-10-13
+LEAD0059,Jonathan Sankaran,Website,Negotiation,Jaipur,56.0,Female,Senior Citizen,72998.0,1.0,Amit Verma,2024-07-05
+LEAD0864,Hemangini Nagy,Direct Agent,Closed Lost,Pune,40.0,Male,Group Health,71202.0,7.0,Meena Gupta,2024-06-11
+LEAD0976,Anika Lala,Agent Referral,Closed Won,Delhi,57.0,Female,Senior Citizen,64612.0,1.0,Priya Nair,2024-07-17
+LEAD0823,Amol Misra,Email Campaign,Quote Sent,Kolkata,18.0,Male,Family Floater,32332.0,5.0,Anjali Singh,2023-11-05
+LEAD0266,Caleb Soman,Direct Agent,Negotiation,Lucknow,26.0,Male,Family Floater,21336.0,3.0,Deepa Iyer,2024-09-14
+LEAD0750,Ijaya Srivastava,Agent Referral,Negotiation,Pune,39.0,Male,Individual Health,13140.0,2.0,Rajesh Sharma,2024-08-21
+LEAD0884,Falak Vala,Direct Agent,Closed Lost,Hyderabad,28.0,Female,Individual Health,6145.0,5.0,Priya Nair,2024-12-14
+LEAD0381,Chameli Dhar,Agent Referral,Contacted,Jaipur,41.0,Male,Family Floater,25004.0,3.0,Vikram Joshi,2024-06-04
+LEAD0605,Kabir Khatri,Agent Referral,Closed Lost,Chennai,41.0,Male,Senior Citizen,31315.0,5.0,Karan Mehta,2024-02-29
+LEAD0667,Gaurav Puri,Direct Agent,Contacted,Pune,30.0,Male,Family Floater,12946.0,1.0,Meena Gupta,2024-07-26
+LEAD0747,Vasana Parekh,Direct Agent,Quote Sent,Kolkata,18.0,Female,Family Floater,29054.0,3.0,Karan Mehta,2023-08-27
+LEAD0712,Gopal Dora,Google Ads,Closed Won,Mumbai,58.0,Male,Critical Illness,35581.0,3.0,Rajesh Sharma,2023-05-14
+LEAD0148,Naksh Rege,Walk-in,Contacted,Mumbai,36.0,Male,Family Floater,11879.0,3.0,Vikram Joshi,2023-09-17
+LEAD0252,Madhav Lall,Direct Agent,Contacted,Ahmedabad,42.0,Female,Critical Illness,22387.0,5.0,Priya Nair,2023-03-31
+LEAD0788,Wakeeta Sule,Agent Referral,Lead,Delhi,71.0,Male,Senior Citizen,39461.0,4.0,Karan Mehta,2024-10-12
+LEAD0848,Vinaya Andra,Google Ads,Contacted,Jaipur,36.0,Male,Individual Health,8198.0,3.0,Priya Nair,2023-08-09
+LEAD0213,Forum Setty,Website,Negotiation,Kolkata,67.0,Male,Senior Citizen,56259.0,3.0,Priya Nair,2023-08-24
+LEAD0441,Ekantika Zacharia,Walk-in,Quote Sent,Bhopal,45.0,Male,Family Floater,17801.0,2.0,Meena Gupta,2024-07-06
+LEAD0858,Nicholas Mutti,Agent Referral,Closed Won,Ahmedabad,45.0,Male,Individual Health,6863.0,1.0,Anjali Singh,2024-10-11
+LEAD0331,Rushil Kakar,Direct Agent,Closed Won,Bengaluru,28.0,Male,Individual Health,10895.0,3.0,Deepa Iyer,2024-10-29
+LEAD0963,Sanya Deshpande,Website,Negotiation,Mumbai,37.0,Male,Individual Health,8803.0,2.0,Rajesh Sharma,2024-04-08
+LEAD0277,Nidra Patil,Agent Referral,Quote Sent,Unknown,58.0,Male,Critical Illness,26567.0,3.0,Deepa Iyer,2023-08-18
+LEAD0781,Darsh Palla,Email Campaign,Closed Lost,Hyderabad,38.0,Female,Critical Illness,21493.0,4.0,Priya Nair,2024-09-24
+LEAD0769,Pallavi Parsa,Social Media,Quote Sent,Nagpur,29.0,Male,Family Floater,12017.0,2.0,Vikram Joshi,2024-11-02
+LEAD0838,Riya Virk,Direct Agent,Closed Won,Mumbai,34.0,Male,Family Floater,29971.0,2.0,Rajesh Sharma,2024-06-11
+LEAD0676,Aarna Sachdev,Social Media,Quote Sent,Surat,28.0,Male,Group Health,75204.0,2.0,Priya Nair,2023-02-19
+LEAD0449,Amaira Pant,Agent Referral,Closed Won,Jaipur,38.0,Male,Individual Health,11683.0,3.0,Priya Nair,2023-09-30
+LEAD0626,Sneha Sinha,Website,Negotiation,Hyderabad,18.0,Male,Individual Health,10184.0,4.0,Meena Gupta,2023-03-08
+LEAD0688,Unni Subramaniam,Social Media,Quote Sent,Mumbai,34.0,Male,Individual Health,16985.0,0.0,Rajesh Sharma,2023-06-06
+LEAD0525,Aadi Dave,Direct Agent,Closed Lost,Chennai,29.0,Female,Individual Health,7286.0,3.0,Karan Mehta,2024-06-30
+LEAD0304,Neelima Sahni,Agent Referral,Negotiation,Bengaluru,35.0,Male,Individual Health,17086.0,2.0,Deepa Iyer,2023-04-01
+LEAD0488,Siya Hayre,Website,Negotiation,Kolkata,45.0,Male,Individual Health,8823.0,2.0,Sneha Reddy,2023-05-15
+LEAD0720,Anay Narayanan,Direct Agent,Negotiation,Chennai,61.0,Female,Individual Health,19974.0,4.0,Rajesh Sharma,2024-10-07
+LEAD0812,Manan Mishra,Social Media,Closed Won,Lucknow,42.0,Female,Individual Health,11047.0,5.0,Karan Mehta,2024-12-16
+LEAD0020,Hiral Thakkar,Agent Referral,Closed Won,Unknown,41.0,Female,Family Floater,17729.0,3.0,Suresh Pillai,2023-09-12
+LEAD0325,Netra Nadig,Email Campaign,Closed Won,Bengaluru,36.0,Female,Family Floater,18731.0,6.0,Rajesh Sharma,2023-02-01
+LEAD0261,Yash Mani,Agent Referral,Closed Won,Hyderabad,64.0,Male,Senior Citizen,50606.0,8.0,Rajesh Sharma,2024-10-02
+LEAD0827,Zayyan Nayar,Social Media,Contacted,Ahmedabad,43.0,Female,Group Health,31603.0,1.0,Priya Nair,2023-09-23
+LEAD0410,Gaurika Sarraf,Agent Referral,Contacted,Patna,40.0,Female,Family Floater,63082.452070562,2.0,Priya Nair,2023-01-06
+LEAD0401,Girindra Kale,Direct Agent,Closed Won,Unknown,39.0,Male,Family Floater,29890.0,0.0,Amit Verma,2024-05-08
+LEAD0980,Suhani Dhawan,Google Ads,Lead,Nagpur,18.0,Male,Family Floater,19418.0,2.0,Priya Nair,2024-10-14
+LEAD0055,Zayyan Bir,Agent Referral,Closed Won,Delhi,63.0,Male,Senior Citizen,60189.0,3.0,Priya Nair,2024-12-17
+LEAD0947,Sathvik Shankar,Website,Negotiation,Bengaluru,36.0,Female,Group Health,25756.0,3.0,Rajesh Sharma,2024-03-23
+LEAD0151,Tanay Ratti,Google Ads,Lead,Mumbai,41.0,Male,Individual Health,12475.0,4.0,Sneha Reddy,2024-12-07
+LEAD0679,Pooja Kapadia,Google Ads,Lead,Delhi,47.0,Female,Critical Illness,19974.0,4.0,Sneha Reddy,2024-02-02
+LEAD0700,Hritik Acharya,Agent Referral,Closed Lost,Bhopal,33.0,Male,Family Floater,24804.0,4.0,Rajesh Sharma,2023-07-26
+LEAD0687,Ojas Dalal,Google Ads,Closed Lost,Nagpur,24.0,Male,Individual Health,13919.0,4.0,Sneha Reddy,2023-05-29
+LEAD0107,Idika Chahal,Direct Agent,Negotiation,Chennai,48.0,Male,Family Floater,128084.564633532,3.0,Priya Nair,2024-09-21
+LEAD0707,Gavin Basak,Google Ads,Quote Sent,Hyderabad,65.0,Male,Critical Illness,17733.0,4.0,Vikram Joshi,2023-08-07
+LEAD0025,Reyansh Karan,Agent Referral,Lead,Indore,38.0,Male,Individual Health,9029.0,1.0,Sneha Reddy,2024-08-06
+LEAD0895,Deepa Gade,Social Media,Closed Lost,Mumbai,26.0,Female,Family Floater,17511.0,2.0,Suresh Pillai,2023-03-29
+LEAD0534,Nisha Nagi,Website,Negotiation,Bengaluru,40.0,Female,Critical Illness,18701.0,1.0,Meena Gupta,2024-03-21
+LEAD0797,Ekavir Narayanan,Agent Referral,Closed Lost,Mumbai,20.0,Male,Family Floater,11066.0,3.0,Amit Verma,2024-10-19
+LEAD0083,Ekiya Dar,Other,Quote Sent,Pune,43.0,Male,Family Floater,22893.0,7.0,Vikram Joshi,2023-12-20
+LEAD0822,Vaishnavi Sami,Social Media,Contacted,Chennai,58.0,Male,Senior Citizen,64855.0,2.0,Meena Gupta,2024-05-02
+LEAD0841,Rayaan Bhardwaj,Google Ads,Negotiation,Mumbai,40.0,Male,Critical Illness,23712.0,2.0,Vikram Joshi,2024-08-09
+LEAD0614,Upasna Sama,Agent Referral,Closed Won,Nagpur,29.0,Female,Family Floater,16821.0,0.0,Sneha Reddy,2023-12-15
+LEAD0380,Manya Anne,Website,Contacted,Ahmedabad,22.0,Male,Critical Illness,14919.0,2.0,Deepa Iyer,2023-02-10
+LEAD0077,Brijesh Bhandari,Walk-in,Closed Won,Bengaluru,29.0,Female,Critical Illness,15781.0,4.0,Sneha Reddy,2023-11-19
+LEAD0389,Omaja Natt,Walk-in,Quote Sent,Kolkata,46.0,Female,Individual Health,10892.0,1.0,Suresh Pillai,2023-12-19
+LEAD0407,Imaran Batta,Website,Quote Sent,Indore,56.0,Male,Family Floater,54641.0,1.0,Rajesh Sharma,2024-05-02
+LEAD0292,Baljiwan Shan,Google Ads,Contacted,Delhi,51.0,Male,Family Floater,29113.0,3.0,Sneha Reddy,2024-07-17
+LEAD0111,Vyanjana Brahmbhatt,Email Campaign,Negotiation,Chennai,38.0,Female,Family Floater,20906.0,3.0,Sneha Reddy,2023-04-08
+LEAD0625,Yahvi Raj,Website,Lead,Indore,58.0,Male,Senior Citizen,71198.0,2.0,Meena Gupta,2024-05-18
+LEAD0942,Forum Bhatnagar,Unknown,Contacted,Indore,46.0,Male,Family Floater,25870.0,0.0,Sneha Reddy,2024-10-22
+LEAD0754,Brinda Tata,Website,Quote Sent,Delhi,62.0,Male,Senior Citizen,54046.0,3.0,Priya Nair,2023-01-04
+LEAD0247,Maanav Dutt,Website,Negotiation,Kolkata,39.0,Female,Individual Health,14359.0,5.0,Priya Nair,2024-10-12
+LEAD0146,Charita Dhar,Direct Agent,Negotiation,Lucknow,59.0,Male,Senior Citizen,30972.0,0.0,Anjali Singh,2023-12-07
+LEAD0129,Nandini Shankar,Walk-in,Lead,Kolkata,41.0,Female,Family Floater,26821.0,4.0,Anjali Singh,2023-03-28
+LEAD0960,Manan Balasubramanian,Agent Referral,Negotiation,Bengaluru,27.0,Male,Family Floater,22439.0,7.0,Amit Verma,2023-01-10
+LEAD0623,Hredhaan Kapadia,Website,Closed Won,Chennai,52.0,Male,Family Floater,17081.0,5.0,Amit Verma,2023-02-11
+LEAD0952,Riya Karan,Direct Agent,Closed Lost,Hyderabad,46.0,Female,Critical Illness,16902.0,3.0,Priya Nair,2023-01-11
+LEAD0925,Aditya Vig,Google Ads,Closed Won,Ahmedabad,41.0,Female,Family Floater,11524.0,2.0,Priya Nair,2024-07-28
+LEAD0487,Qasim Dutta,Direct Agent,Negotiation,Bengaluru,32.0,Male,Individual Health,15071.0,7.0,Vikram Joshi,2024-11-25
+LEAD0888,Ekavir Bhatti,Agent Referral,Closed Won,Bengaluru,43.0,Female,Critical Illness,12963.0,1.0,Priya Nair,2023-10-14
+LEAD0091,Gaurang Kari,Website,Quote Sent,Bengaluru,21.0,Male,Individual Health,13995.0,3.0,Meena Gupta,2023-11-03
+LEAD0206,Kashish Barad,Direct Agent,Closed Won,Ahmedabad,25.0,Male,Family Floater,22874.0,1.0,Sneha Reddy,2023-11-04
+LEAD0956,Kai Sekhon,Website,Closed Lost,Nagpur,46.0,Male,Group Health,85320.0,1.0,Priya Nair,2023-07-22
+LEAD0171,Chaitanya Bhat,Website,Contacted,Hyderabad,44.0,Male,Individual Health,12976.0,5.0,Rajesh Sharma,2024-05-31
+LEAD0898,Ayaan Sarkar,Direct Agent,Closed Won,Hyderabad,51.0,Male,Group Health,61913.0,3.0,Deepa Iyer,2023-04-26
+LEAD0057,Forum Bhatt,Website,Negotiation,Delhi,35.0,Female,Critical Illness,11966.0,2.0,Karan Mehta,2023-11-05
+LEAD0405,Manya Reddy,Google Ads,Negotiation,Mumbai,70.0,Female,Senior Citizen,19974.0,2.0,Rajesh Sharma,2024-04-04
+LEAD0242,Charan Issac,Social Media,Quote Sent,Mumbai,52.0,Male,Group Health,40012.0,1.0,Vikram Joshi,2024-07-19
+LEAD0600,Samesh Seshadri,Other,Negotiation,Coimbatore,45.0,Male,Family Floater,23098.0,8.0,Vikram Joshi,2024-03-28
+LEAD0347,Bhavya Subramanian,Social Media,Quote Sent,Bengaluru,36.0,Female,Family Floater,17491.0,3.0,Anjali Singh,2024-06-19
+LEAD0098,Waida Barad,Google Ads,Closed Lost,Chennai,58.0,Male,Senior Citizen,51236.0,2.0,Anjali Singh,2024-01-16
+LEAD0117,Caleb Sandal,Direct Agent,Closed Lost,Kolkata,42.0,Male,Family Floater,30598.0,4.0,Amit Verma,2023-11-29
+LEAD0202,Ojasvi Suri,Agent Referral,Closed Won,Jaipur,27.0,Female,Critical Illness,15409.0,4.0,Karan Mehta,2023-01-17
+LEAD0867,Chanchal Padmanabhan,Website,Contacted,Bengaluru,45.0,Male,Individual Health,15746.0,3.0,Rajesh Sharma,2024-03-25
+LEAD0480,Dev Narayanan,Social Media,Closed Lost,Mumbai,30.0,Female,Individual Health,5851.0,5.0,Priya Nair,2023-10-22
+LEAD0324,Luke Varughese,Agent Referral,Closed Lost,Bhopal,41.0,Female,Individual Health,5886.0,3.0,Anjali Singh,2023-09-13
+LEAD0194,Amaira Sharma,Agent Referral,Negotiation,Ahmedabad,31.0,Male,Individual Health,13732.0,4.0,Suresh Pillai,2023-03-25
+LEAD0444,Nicholas Nanda,Website,Closed Lost,Jaipur,62.0,Male,Senior Citizen,30925.0,3.0,Karan Mehta,2023-10-27
+LEAD0795,Parth Dhawan,Social Media,Quote Sent,Delhi,65.0,Male,Senior Citizen,29381.0,3.0,Deepa Iyer,2023-03-11
+LEAD0455,Geetika Sen,Direct Agent,Quote Sent,Delhi,47.0,Female,Group Health,79508.0,2.0,Karan Mehta,2024-03-25
+LEAD0529,Brijesh Raju,Agent Referral,Closed Won,Kolkata,22.0,Male,Individual Health,13122.0,4.0,Vikram Joshi,2023-09-02
+LEAD0785,Osha Puri,Direct Agent,Closed Won,Surat,63.0,Female,Senior Citizen,40290.0,4.0,Sneha Reddy,2023-01-11
+LEAD0551,Matthew Kata,Google Ads,Quote Sent,Pune,41.0,Female,Individual Health,16720.0,1.0,Anjali Singh,2023-09-19
+LEAD0798,Yashodhara Sarma,Agent Referral,Closed Lost,Bhopal,39.0,Male,Individual Health,15619.0,4.0,Rajesh Sharma,2024-02-29
+LEAD0149,Kamala Rout,Unknown,Closed Lost,Lucknow,68.0,Male,Individual Health,24391.0,2.0,Amit Verma,2024-02-14
+LEAD0970,Yachana Dugar,Website,Quote Sent,Delhi,62.0,Male,Critical Illness,17950.0,1.0,Deepa Iyer,2024-11-15
+LEAD0297,Edhitha Chaudhry,Google Ads,Contacted,Nagpur,38.0,Female,Critical Illness,12656.0,2.0,Karan Mehta,2024-08-04
+LEAD0873,Lavanya Ratti,Google Ads,Contacted,Nagpur,50.0,Female,Family Floater,42075.0,0.0,Meena Gupta,2024-08-28
+LEAD0602,Wazir Kakar,Direct Agent,Closed Lost,Pune,31.0,Female,Group Health,54193.0,6.0,Rajesh Sharma,2024-07-05
+LEAD0432,Daksh De,Email Campaign,Negotiation,Unknown,41.0,Male,Family Floater,19009.0,6.0,Anjali Singh,2023-11-04
+LEAD0396,Aradhana Luthra,Website,Quote Sent,Bhopal,64.0,Male,Senior Citizen,43704.0,3.0,Sneha Reddy,2024-08-26
+LEAD0427,Siya Sibal,Other,Quote Sent,Chennai,22.0,Female,Critical Illness,9860.0,4.0,Priya Nair,2024-08-13
+LEAD0800,Zansi Mutti,Agent Referral,Closed Won,Kolkata,41.0,Female,Family Floater,12269.0,3.0,Sneha Reddy,2023-07-17
+LEAD0560,Henry Kala,Agent Referral,Negotiation,Hyderabad,57.0,Male,Senior Citizen,75937.0,1.0,Sneha Reddy,2024-02-18
+LEAD0526,Michael Kota,Social Media,Contacted,Delhi,49.0,Male,Critical Illness,27991.0,5.0,Sneha Reddy,2024-12-01
+LEAD0946,Robert Bava,Website,Closed Lost,Kolkata,27.0,Female,Individual Health,14524.0,6.0,Vikram Joshi,2024-10-08
+LEAD0015,Aadhya Mann,Google Ads,Closed Lost,Delhi,35.0,Male,Group Health,52730.0,5.0,Vikram Joshi,2024-09-13
+LEAD0253,Ethan Hayer,Social Media,Closed Lost,Delhi,41.0,Female,Senior Citizen,43755.0,4.0,Deepa Iyer,2024-03-14
+LEAD0239,Abdul Mital,Direct Agent,Quote Sent,Delhi,41.0,Female,Family Floater,21904.0,1.0,Karan Mehta,2023-06-04
+LEAD0121,Yashodhara Rege,Direct Agent,Negotiation,Ahmedabad,71.0,Female,Family Floater,25044.0,1.0,Sneha Reddy,2024-04-15
+LEAD0286,Reva Golla,Agent Referral,Contacted,Indore,52.0,Male,Critical Illness,10528.0,6.0,Karan Mehta,2024-09-09
+LEAD0555,Faraj Mandal,Social Media,Lead,Ahmedabad,25.0,Female,Individual Health,13650.0,3.0,Priya Nair,2023-10-29
+LEAD0197,Anvi Ray,Website,Closed Won,Kolkata,55.0,Male,Senior Citizen,39874.0,2.0,Rajesh Sharma,2023-09-18
+LEAD0346,Aayush Setty,Direct Agent,Quote Sent,Pune,59.0,Female,Senior Citizen,40829.0,4.0,Priya Nair,2024-09-12
+LEAD0546,Rachit Bahri,Walk-in,Closed Lost,Pune,63.0,Female,Senior Citizen,51687.0,7.0,Amit Verma,2023-06-29
+LEAD0251,Chavvi Sura,Other,Quote Sent,Kolkata,39.0,Male,Family Floater,28107.0,4.0,Karan Mehta,2024-03-27
+LEAD0646,Vinaya Shah,Agent Referral,Lead,Ahmedabad,53.0,Male,Individual Health,19974.0,6.0,Priya Nair,2023-10-12
+LEAD0809,Raghav Mahajan,Google Ads,Lead,Delhi,31.0,Female,Group Health,68424.0,6.0,Priya Nair,2024-08-15
+LEAD0413,Ekavir Puri,Direct Agent,Contacted,Lucknow,48.0,Female,Individual Health,15999.0,5.0,Rajesh Sharma,2023-08-24
+LEAD0486,Samarth Bahl,Unknown,Closed Lost,Unknown,30.0,Male,Individual Health,6482.0,2.0,Priya Nair,2024-02-01
+LEAD0431,Vrishti Sehgal,Website,Contacted,Nagpur,33.0,Female,Critical Illness,23498.0,4.0,Anjali Singh,2023-06-03
+LEAD0773,Jonathan Sankaran,Website,Closed Lost,Lucknow,36.0,Male,Individual Health,8518.0,2.0,Anjali Singh,2023-05-23
+LEAD0748,Megha Pradhan,Google Ads,Negotiation,Chennai,41.0,Male,Individual Health,12632.0,0.0,Deepa Iyer,2023-01-27
+LEAD0291,Chandani Narain,Direct Agent,Closed Won,Nagpur,32.0,Female,Individual Health,8522.0,5.0,Priya Nair,2023-08-08
+LEAD0017,Xiti Rama,Website,Closed Won,Bengaluru,39.0,Male,Individual Health,6964.0,4.0,Rajesh Sharma,2024-10-08
+LEAD0159,Zaitra Viswanathan,Website,Negotiation,Mumbai,18.0,Female,Family Floater,11285.0,4.0,Vikram Joshi,2024-09-18
+LEAD0244,Panini Bhalla,Agent Referral,Closed Won,Nagpur,52.0,Female,Individual Health,10275.0,1.0,Priya Nair,2023-11-30
+LEAD0067,Ayushman Ramanathan,Website,Quote Sent,Pune,30.0,Female,Family Floater,15738.0,5.0,Rajesh Sharma,2024-05-04
+LEAD0904,Ekapad Murty,Direct Agent,Closed Won,Kolkata,18.0,Male,Individual Health,8164.0,4.0,Vikram Joshi,2024-12-11
+LEAD0360,Jeevika Mani,Google Ads,Closed Won,Delhi,45.0,Male,Group Health,53139.0,6.0,Rajesh Sharma,2023-08-17
+LEAD0931,Ranbir Agrawal,Direct Agent,Closed Won,Hyderabad,63.0,Male,Senior Citizen,49114.0,3.0,Vikram Joshi,2024-11-16
+LEAD0632,Dayamai Tiwari,Email Campaign,Quote Sent,Kolkata,40.0,Male,Individual Health,10451.0,3.0,Sneha Reddy,2023-05-18
+LEAD0505,Netra Hegde,Agent Referral,Lead,Ahmedabad,43.0,Male,Critical Illness,17718.0,4.0,Anjali Singh,2023-11-02
+LEAD0473,Urmi Zacharia,Direct Agent,Negotiation,Lucknow,39.0,Male,Critical Illness,8122.0,2.0,Suresh Pillai,2023-08-21
+LEAD0941,Chaitaly Sahota,Website,Negotiation,Pune,30.0,Female,Critical Illness,73671.047048308,2.0,Suresh Pillai,2023-08-05
+LEAD0578,Chaman Bhandari,Google Ads,Quote Sent,Delhi,54.0,Male,Individual Health,19156.0,1.0,Sneha Reddy,2023-07-18
+LEAD0958,Aryan Karan,Google Ads,Closed Lost,Pune,18.0,Female,Family Floater,11866.0,1.0,Amit Verma,2024-10-09
+LEAD0522,Laksh Kulkarni,Google Ads,Contacted,Lucknow,34.0,Male,Individual Health,19974.0,8.0,Rajesh Sharma,2024-09-29
+LEAD0854,Falan Sule,Direct Agent,Closed Won,Mumbai,41.0,Female,Family Floater,13571.0,3.0,Amit Verma,2023-04-12
+LEAD0531,Lavanya Kumar,Google Ads,Contacted,Surat,36.0,Female,Critical Illness,11199.0,4.0,Vikram Joshi,2023-11-30
+LEAD0409,Veer Choudhury,Direct Agent,Closed Won,Kolkata,46.0,male,Critical Illness,12925.0,5.0,Amit Verma,2024-08-26
+LEAD0666,Urishilla Sodhi,Walk-in,Closed Won,Delhi,60.0,Male,Group Health,114167.0,5.0,Meena Gupta,2024-09-04
+LEAD0852,Pavani Majumdar,Unknown,Contacted,Mumbai,24.0,Male,Individual Health,8093.0,3.0,Amit Verma,2023-12-08
+LEAD0433,Hema Mallick,Agent Referral,Closed Won,Jaipur,45.0,Male,Critical Illness,18397.0,6.0,Deepa Iyer,2024-04-05
+LEAD0432,Daksh De,Email Campaign,Negotiation,Unknown,41.0,Male,Family Floater,19009.0,6.0,Anjali Singh,2023-11-04
+LEAD0485,Ati Merchant,Agent Referral,Quote Sent,Patna,41.0,Male,Individual Health,9191.0,3.0,Amit Verma,2024-02-07
+LEAD0152,Praneel Sha,Other,Quote Sent,Hyderabad,34.0,Female,Individual Health,15296.0,0.0,Meena Gupta,2023-03-18
+LEAD0328,Gaurika Nori,Website,Closed Lost,Ahmedabad,43.0,Female,Individual Health,10135.0,3.0,Anjali Singh,2023-08-18
+LEAD0257,Meera Goswami,Walk-in,Closed Won,Bengaluru,24.0,Male,Family Floater,12321.0,4.0,Amit Verma,2023-01-03
+LEAD0312,Dalbir Prabhu,Google Ads,Closed Won,Chennai,49.0,Male,Individual Health,13513.0,3.0,Priya Nair,2024-01-26
+LEAD0784,Yashawini Vig,Direct Agent,Closed Won,Surat,33.0,Male,Family Floater,12875.0,4.0,Vikram Joshi,2024-04-18
+LEAD0305,Champak Nori,Agent Referral,Contacted,Mumbai,56.0,Male,Senior Citizen,67991.0,0.0,Anjali Singh,2023-01-02
+LEAD0414,Megha Pant,Social Media,Closed Won,Lucknow,53.0,Male,Family Floater,34000.0,7.0,Rajesh Sharma,2024-02-03
+LEAD0134,Ekani Manne,Walk-in,Closed Won,Bengaluru,41.0,Male,Individual Health,8025.0,4.0,Priya Nair,2023-05-21
+LEAD0032,Nathaniel Golla,Agent Referral,Closed Won,Jaipur,56.0,Female,Individual Health,11147.0,7.0,Vikram Joshi,2024-03-16
+LEAD0766,Charan Bhalla,Direct Agent,Closed Won,Bengaluru,44.0,Female,Individual Health,7350.0,2.0,Deepa Iyer,2024-01-03
+LEAD0459,Tristan Mody,Website,Quote Sent,Ahmedabad,44.0,Female,Family Floater,16538.0,6.0,Sneha Reddy,2024-07-18
+LEAD0162,Peter Sidhu,Walk-in,Closed Won,Hyderabad,31.0,Female,Critical Illness,15293.0,0.0,Priya Nair,2024-10-12
+LEAD0340,Andrew Vaidya,Agent Referral,Closed Won,Mumbai,18.0,Male,Family Floater,14644.0,0.0,Amit Verma,2024-06-27
+LEAD0287,Lopa Thaman,Direct Agent,Closed Lost,Unknown,31.0,Female,Individual Health,6509.0,3.0,Anjali Singh,2023-06-28
+LEAD0249,Nachiket Deo,Website,Closed Lost,Hyderabad,69.0,Male,Senior Citizen,71994.0,3.0,Sneha Reddy,2024-12-28
+LEAD0919,Yochana Sibal,Website,Closed Lost,Unknown,69.0,Male,Senior Citizen,39240.0,2.0,Meena Gupta,2023-12-16
+LEAD0580,Jhalak Dayal,Google Ads,Closed Lost,Ahmedabad,41.0,Female,Individual Health,10650.0,3.0,Suresh Pillai,2023-03-30
+LEAD0816,Vyanjana Prabhu,Agent Referral,Closed Won,Mumbai,36.0,Male,Individual Health,19974.0,3.0,Karan Mehta,2023-01-10
+LEAD0916,Sneha Sarraf,Agent Referral,Closed Lost,Coimbatore,57.0,Male,Family Floater,39610.0,0.0,Sneha Reddy,2023-07-19
+LEAD0002,Lakshmi Randhawa,Google Ads,Contacted,Delhi,36.0,Male,Family Floater,18069.0,3.0,Karan Mehta,2024-03-05
+LEAD0737,Vasudha Vyas,Direct Agent,Negotiation,Pune,56.0,Male,Senior Citizen,59928.0,1.0,Sneha Reddy,2024-01-07
+LEAD0208,Gopal Dash,Agent Referral,Contacted,Bengaluru,31.0,Male,Family Floater,26595.0,0.0,Anjali Singh,2023-04-05
+LEAD0630,Anika Rai,Website,Quote Sent,Ahmedabad,31.0,Female,Family Floater,27222.0,3.0,Amit Verma,2024-05-24
+LEAD0912,Gautam Grewal,Social Media,Quote Sent,Coimbatore,63.0,Male,Family Floater,57952.0,2.0,Sneha Reddy,2024-07-26
+LEAD0830,Pratyush Khanna,Agent Referral,Quote Sent,Pune,25.0,Female,Individual Health,8627.0,2.0,Amit Verma,2023-10-31
+LEAD0839,Dev Ravel,Social Media,Contacted,Delhi,41.0,Male,Individual Health,17271.0,2.0,Sneha Reddy,2023-11-06
+LEAD0265,Adweta Padmanabhan,Website,Quote Sent,Pune,27.0,Female,Individual Health,14093.0,4.0,Priya Nair,2023-05-07
+LEAD0275,Janani Garde,Agent Referral,Closed Won,Pune,52.0,Female,Family Floater,20506.0,3.0,Sneha Reddy,2024-08-03
+LEAD0071,Victor Arora,Direct Agent,Closed Lost,Pune,41.0,Male,Individual Health,6736.0,0.0,Karan Mehta,2024-04-09
+LEAD0641,Anusha Bawa,Website,Quote Sent,Nagpur,31.0,Male,Individual Health,11835.0,2.0,Amit Verma,2024-02-29
+LEAD0445,Rohan Chandran,Google Ads,Closed Lost,Bengaluru,55.0,Male,Family Floater,31269.0,0.0,Priya Nair,2023-03-23
+LEAD0826,Jagrati Sabharwal,Direct Agent,Negotiation,Bengaluru,38.0,Female,Family Floater,21917.0,2.0,Rajesh Sharma,2023-12-18
+LEAD0099,Viraj Sarna,Google Ads,Closed Won,Pune,24.0,Male,Family Floater,20124.0,4.0,Karan Mehta,2024-10-26
+LEAD0845,Sudiksha Sarkar,Agent Referral,Lead,Lucknow,27.0,Female,Individual Health,10206.0,5.0,Priya Nair,2024-07-29
+LEAD0022,Praneel Batra,Unknown,Lead,Indore,20.0,Other,Group Health,42344.0,3.0,Priya Nair,2024-05-12
+LEAD0706,Azaan Bora,Website,Closed Won,Delhi,67.0,Male,Senior Citizen,53508.0,8.0,Karan Mehta,2024-10-26
+LEAD0415,Kabir Bakshi,Website,Negotiation,Patna,18.0,Male,Individual Health,15326.0,4.0,Rajesh Sharma,2023-02-08
+LEAD0518,Pratyush Tata,Agent Referral,Closed Won,Hyderabad,41.0,Male,Individual Health,11681.0,3.0,Vikram Joshi,2024-05-09
+LEAD0150,Hiral Pal,Walk-in,Quote Sent,Chennai,24.0,Male,Family Floater,21852.0,4.0,Karan Mehta,2023-03-22
+LEAD0648,Om Chad,Email Campaign,Closed Lost,Hyderabad,44.0,Female,Critical Illness,19974.0,0.0,Vikram Joshi,2024-05-27
+LEAD0355,Zashil Prabhu,Website,Lead,Bhopal,65.0,Male,Senior Citizen,81246.0,4.0,Priya Nair,2024-11-16
+LEAD0929,Yagnesh Majumdar,Google Ads,Quote Sent,Chennai,41.0,Male,Individual Health,7022.0,6.0,Deepa Iyer,2024-01-25
+LEAD0053,Ikshita Vora,Website,Quote Sent,Bengaluru,28.0,Male,Individual Health,9119.0,1.0,Amit Verma,2024-03-07
+LEAD0199,Chakradev Kannan,Google Ads,Closed Lost,Unknown,68.0,Female,Family Floater,31506.0,4.0,Amit Verma,2024-01-22
+LEAD0123,Gautam Bail,Website,Contacted,Bengaluru,30.0,Female,Family Floater,18682.0,5.0,Amit Verma,2023-12-14
+LEAD0204,Ladli Lad,Direct Agent,Closed Lost,Unknown,63.0,Male,Critical Illness,27257.0,5.0,Vikram Joshi,2024-11-19
+LEAD0068,Omya Bhargava,Agent Referral,Closed Won,Pune,48.0,Male,Individual Health,9761.0,4.0,Amit Verma,2023-09-12
+LEAD0224,Matthew Wali,Email Campaign,Closed Won,Chennai,36.0,Male,Individual Health,10666.0,0.0,Meena Gupta,2024-02-11
+LEAD0128,Anmol Anand,Direct Agent,Contacted,Pune,50.0,Male,Family Floater,33030.0,4.0,Karan Mehta,2023-02-12
+LEAD0656,Yadavi Contractor,Agent Referral,Quote Sent,Patna,34.0,Male,Individual Health,15865.0,4.0,Rajesh Sharma,2024-03-06
+LEAD0140,Samar Bhardwaj,Walk-in,Quote Sent,Mumbai,60.0,Female,Critical Illness,14016.0,0.0,Meena Gupta,2024-02-29
+LEAD0418,Tanveer Lalla,Social Media,Closed Won,Unknown,54.0,F,Family Floater,112701.486604862,4.0,Vikram Joshi,2024-06-14
+LEAD0219,Owen Amble,Email Campaign,Quote Sent,Bengaluru,32.0,Female,Individual Health,6777.0,0.0,Deepa Iyer,2023-02-02
+LEAD0547,Frederick Ramakrishnan,Agent Referral,Closed Won,Mumbai,28.0,Male,Group Health,75486.0,4.0,Sneha Reddy,2024-02-27
+LEAD0158,Oviya Chawla,Email Campaign,Contacted,Bhopal,71.0,Female,Senior Citizen,42980.0,0.0,Deepa Iyer,2024-01-06
+LEAD0095,Lucky Narula,Direct Agent,Closed Won,Mumbai,66.0,Female,Senior Citizen,87149.0,4.0,Rajesh Sharma,2024-07-06
+LEAD0256,Omkaar Gour,Website,Lead,Ahmedabad,46.0,Female,Family Floater,18672.0,0.0,Sneha Reddy,2024-04-07
+LEAD0964,Siddharth Bhattacharyya,Agent Referral,Closed Won,Mumbai,64.0,Male,Senior Citizen,46960.0,3.0,Rajesh Sharma,2024-04-17
+LEAD0644,Ikbal Dada,Google Ads,Closed Lost,Delhi,47.0,Male,Individual Health,18454.0,0.0,Amit Verma,2023-03-07
+LEAD0739,Vaishnavi Kade,Agent Referral,Contacted,Pune,61.0,Female,Family Floater,33682.0,5.0,Rajesh Sharma,2024-08-06
+LEAD0040,Devika Sem,Google Ads,Contacted,Indore,42.0,Male,Individual Health,16900.0,2.0,Sneha Reddy,2024-02-17
+LEAD0131,Urvashi Yohannan,Direct Agent,Closed Lost,Pune,44.0,Male,Individual Health,17321.0,4.0,Amit Verma,2023-09-16
+LEAD0319,Yauvani Yadav,Social Media,Negotiation,Mumbai,55.0,Male,Senior Citizen,38608.0,4.0,Suresh Pillai,2024-02-25
+LEAD0190,Hardik Bail,Google Ads,Closed Won,Mumbai,40.0,Male,Individual Health,6111.0,5.0,Amit Verma,2023-09-12
+LEAD0938,Niharika Sastry,Website,Quote Sent,Unknown,65.0,Male,Family Floater,27522.0,4.0,Sneha Reddy,2023-12-10
+LEAD0590,Barkha Shanker,Website,Quote Sent,Chennai,37.0,Male,Individual Health,10140.0,3.0,Deepa Iyer,2024-06-29
+LEAD0403,Saksham Shetty,Agent Referral,Closed Won,Bengaluru,68.0,Male,Senior Citizen,28742.0,0.0,Vikram Joshi,2024-10-24
+LEAD0761,Dayita Boase,Social Media,Closed Lost,Mumbai,22.0,Male,Critical Illness,12154.0,1.0,Meena Gupta,2024-05-15
+LEAD0039,Jonathan Sandal,Social Media,Quote Sent,Kolkata,66.0,Male,Senior Citizen,59750.0,6.0,Karan Mehta,2023-07-21
+LEAD0243,Elijah Subramanian,Agent Referral,Contacted,Pune,69.0,Female,Senior Citizen,71375.0,6.0,Karan Mehta,2023-07-22
+LEAD0354,Ira Nagi,Email Campaign,Negotiation,Indore,58.0,Female,Senior Citizen,65555.0,2.0,Sneha Reddy,2024-05-14
+LEAD0621,Lajita Bir,Website,Closed Lost,Surat,55.0,Female,Senior Citizen,30327.0,3.0,Priya Nair,2024-07-04
+LEAD0651,Nihal Devan,Agent Referral,Closed Won,Jaipur,41.0,Male,Family Floater,16245.0,4.0,Priya Nair,2023-10-12
+LEAD0535,Suhani Bali,Email Campaign,Quote Sent,Kolkata,52.0,Female,Critical Illness,10523.0,4.0,Suresh Pillai,2023-02-24
+LEAD0504,Henry Baria,Google Ads,Closed Won,Mumbai,42.0,Male,Individual Health,9118.0,3.0,Deepa Iyer,2024-07-24
+LEAD0160,Arya Madan,Website,Contacted,Hyderabad,59.0,Male,Family Floater,43670.0,4.0,Amit Verma,2023-03-17
+LEAD0395,Frado Agarwal,Social Media,Lead,Pune,64.0,Female,Critical Illness,19974.0,0.0,Deepa Iyer,2024-08-18
+LEAD0538,Harshil Minhas,Social Media,Quote Sent,Mumbai,41.0,Male,Family Floater,16001.0,4.0,Meena Gupta,2023-03-28
+LEAD0696,Ishita Sachar,Direct Agent,Quote Sent,Unknown,34.0,Female,Individual Health,6131.0,4.0,Priya Nair,2024-05-30
+LEAD0241,Forum Mallick,Social Media,Closed Won,Mumbai,34.0,Male,Family Floater,15771.0,3.0,Rajesh Sharma,2024-12-28
+LEAD0014,Neelima Vala,Email Campaign,Closed Lost,Bhopal,48.0,Female,Individual Health,9768.0,3.0,Suresh Pillai,2023-03-22
+LEAD0658,Chakrika Rajagopal,Website,Negotiation,Bengaluru,25.0,Male,Individual Health,8131.0,1.0,Karan Mehta,2024-10-26
+LEAD0476,Manan Hans,Direct Agent,Closed Won,Bengaluru,40.0,Female,Family Floater,28507.0,2.0,Karan Mehta,2024-05-07
+LEAD0892,Oviya Nagy,Agent Referral,Closed Won,Mumbai,35.0,Female,Individual Health,8100.0,4.0,Deepa Iyer,2023-03-13
+LEAD0885,Ishanvi Manne,Website,Closed Won,Jaipur,18.0,Male,Individual Health,6564.0,1.0,Karan Mehta,2024-07-19
+LEAD0315,Bahadurjit Kashyap,Agent Referral,Contacted,Chennai,21.0,Female,Critical Illness,9866.0,0.0,Vikram Joshi,2024-06-13
+LEAD0362,Dhriti Aurora,Social Media,Closed Won,Pune,37.0,Male,Family Floater,27290.0,2.0,Rajesh Sharma,2023-06-18
+LEAD0591,Chanchal Jha,Unknown,Closed Lost,Jaipur,50.0,Female,Critical Illness,12935.0,3.0,Suresh Pillai,2023-03-31
+LEAD0321,Geetika Mander,Social Media,Closed Won,Mumbai,44.0,Female,Individual Health,19974.0,1.0,Sneha Reddy,2024-12-13
+LEAD0901,Jai Dayal,Direct Agent,Negotiation,Hyderabad,47.0,Male,Critical Illness,14394.0,3.0,Anjali Singh,2023-06-02
+LEAD0109,Zayyan Halder,Agent Referral,Closed Won,Bengaluru,35.0,Female,Individual Health,10647.0,2.0,Vikram Joshi,2024-12-30
+LEAD0673,Sai Kant,Agent Referral,Contacted,Ahmedabad,40.0,Female,Group Health,19974.0,1.0,Karan Mehta,2023-07-04
+LEAD0565,Arunima Barad,Agent Referral,Closed Won,Hyderabad,59.0,Female,Senior Citizen,60099.0,4.0,Meena Gupta,2024-07-03
+LEAD0356,Aadhya Mand,Direct Agent,Closed Won,Bengaluru,56.0,Female,Senior Citizen,31334.0,3.0,Anjali Singh,2024-07-25
+LEAD0035,Arin Mahal,Social Media,Contacted,Ahmedabad,41.0,Male,Individual Health,6634.0,0.0,Karan Mehta,2024-01-27
+LEAD0335,Watika Tella,Social Media,Quote Sent,Bengaluru,57.0,Male,Senior Citizen,51375.0,2.0,Deepa Iyer,2023-12-10
+LEAD0689,Devika Maharaj,Direct Agent,Quote Sent,Chennai,50.0,Male,Individual Health,19974.0,2.0,Sneha Reddy,2023-12-08
+LEAD0377,Jasmit Lad,Social Media,Closed Lost,Pune,41.0,Female,Family Floater,27024.0,3.0,Amit Verma,2024-08-09
+LEAD0185,Harish Hegde,Unknown,Quote Sent,Delhi,38.0,Male,Individual Health,15685.0,7.0,Suresh Pillai,2023-04-02
+LEAD0824,Qasim Dey,Website,Negotiation,Coimbatore,18.0,Female,Family Floater,28415.0,4.0,Priya Nair,2024-11-06
+LEAD0424,Bina Devan,Website,Contacted,Coimbatore,40.0,Male,Family Floater,16407.0,2.0,Priya Nair,2024-11-30
+LEAD0326,Saumya Soman,Email Campaign,Closed Won,Delhi,36.0,Female,Family Floater,33534.0,6.0,Priya Nair,2023-09-22
+LEAD0188,Harrison Kadakia,Agent Referral,Negotiation,Bhopal,28.0,Male,Family Floater,17324.0,1.0,Anjali Singh,2023-12-05
+LEAD0285,Kamya Bhandari,Agent Referral,Closed Won,Mumbai,29.0,Female,Family Floater,18238.0,0.0,Rajesh Sharma,2024-01-02
+LEAD0392,Watika Patil,Direct Agent,Closed Won,Chennai,66.0,Male,Senior Citizen,68420.0,7.0,Priya Nair,2024-08-03
+LEAD0951,Karan Brahmbhatt,Email Campaign,Lead,Hyderabad,28.0,Male,Family Floater,27103.0,1.0,Rajesh Sharma,2023-03-17
+LEAD0166,Hritik Lal,Website,Contacted,Chennai,26.0,Male,Individual Health,10958.0,0.0,Amit Verma,2023-11-23
+LEAD0348,Yahvi Chander,Walk-in,Contacted,Kolkata,57.0,Male,Senior Citizen,44494.0,4.0,Priya Nair,2023-01-14
+LEAD0299,Falan Bhasin,Agent Referral,Contacted,Delhi,56.0,Female,Senior Citizen,25780.0,4.0,Anjali Singh,2023-11-28
+LEAD0536,Pranit Sangha,Direct Agent,Closed Won,Bhopal,67.0,Female,Senior Citizen,67479.0,2.0,Amit Verma,2024-01-27
+LEAD0230,Isha Deol,Agent Referral,Closed Won,Chennai,31.0,Male,Family Floater,23118.0,5.0,Sneha Reddy,2023-03-20
+LEAD0860,David Bhardwaj,Google Ads,Negotiation,Chennai,61.0,Male,Senior Citizen,31491.0,5.0,Rajesh Sharma,2023-01-15
+LEAD0828,Kabir Singh,Agent Referral,Closed Won,Pune,46.0,Male,Group Health,61639.0,3.0,Rajesh Sharma,2023-11-17
+LEAD0695,Panini Johal,Agent Referral,Closed Won,Chennai,43.0,Male,Individual Health,10645.0,2.0,Anjali Singh,2024-05-20
+LEAD0856,Yashica Ramesh,Agent Referral,Closed Won,Ahmedabad,47.0,Female,Family Floater,31663.0,2.0,Suresh Pillai,2024-10-16
+LEAD0042,Jonathan Shukla,Direct Agent,Closed Won,Pune,41.0,Female,Family Floater,160016.293458936,8.0,Vikram Joshi,2023-06-23
+LEAD0869,Charles Pandit,Agent Referral,Closed Lost,Patna,49.0,Female,Individual Health,9451.0,4.0,Deepa Iyer,2023-09-30
+LEAD0749,Yachana Karpe,Google Ads,Quote Sent,Mumbai,42.0,Male,Family Floater,29596.0,3.0,Suresh Pillai,2023-05-10
+LEAD0918,Zansi Morar,Agent Referral,Closed Lost,Ahmedabad,37.0,Male,Family Floater,30897.0,4.0,Priya Nair,2023-08-09
+LEAD0863,Isaac Kala,Google Ads,Contacted,Bengaluru,41.0,Female,Critical Illness,16022.0,5.0,Suresh Pillai,2023-10-25
+LEAD0588,Ayushman Sarraf,Google Ads,Negotiation,Ahmedabad,48.0,Male,Family Floater,23508.0,6.0,Rajesh Sharma,2023-12-09
+LEAD0544,Bishakha Mittal,Social Media,Contacted,Bengaluru,35.0,Female,Individual Health,6434.0,2.0,Vikram Joshi,2024-08-09
+LEAD0447,Sanya Murty,Google Ads,Contacted,Ahmedabad,48.0,Male,Individual Health,8898.0,5.0,Priya Nair,2023-01-20
+LEAD0448,Shivansh Venkatesh,Google Ads,Quote Sent,Bengaluru,61.0,Male,Senior Citizen,65060.0,5.0,Priya Nair,2024-05-20
+LEAD0350,Omisha Modi,Unknown,Closed Won,Mumbai,41.0,Male,Critical Illness,9217.0,0.0,Karan Mehta,2023-04-08
+LEAD0046,Omkaar Apte,Website,Closed Lost,Delhi,26.0,Male,Family Floater,31112.0,2.0,Amit Verma,2024-03-29
+LEAD0957,Anusha Arya,Website,Negotiation,Lucknow,38.0,Male,Individual Health,19974.0,6.0,Karan Mehta,2024-03-19
+LEAD0109,Zayyan Halder,Agent Referral,Closed Won,Bengaluru,35.0,Female,Individual Health,10647.0,2.0,Vikram Joshi,2024-12-30
+LEAD0618,Ekapad Rege,Social Media,Closed Won,Mumbai,40.0,Male,Family Floater,13418.0,3.0,Rajesh Sharma,2023-09-17
+LEAD0662,Shivansh Bumb,Website,Closed Lost,Mumbai,58.0,Female,Senior Citizen,51719.0,3.0,Anjali Singh,2024-05-21
+LEAD0030,Anusha Jain,Google Ads,Lead,Bengaluru,48.0,Male,Critical Illness,13797.0,3.0,Priya Nair,2023-02-22
+LEAD0182,Ekaraj Misra,Google Ads,Closed Won,Bengaluru,44.0,male,Individual Health,9219.0,3.0,Priya Nair,2024-05-05
+LEAD0622,Jagdish Ram,Agent Referral,Closed Lost,Jaipur,68.0,Male,Senior Citizen,53097.0,7.0,Anjali Singh,2024-01-24
+LEAD0420,Diya Deo,Website,Closed Lost,Bengaluru,32.0,Female,Individual Health,14409.0,3.0,Amit Verma,2023-04-30
+LEAD0635,Lekha Konda,Unknown,Closed Won,Hyderabad,26.0,Female,Group Health,39990.0,5.0,Rajesh Sharma,2023-09-08
+LEAD0961,Harsh Grewal,Direct Agent,Closed Won,Kolkata,43.0,Male,Individual Health,19974.0,0.0,Amit Verma,2023-08-06
+LEAD0105,Urishilla More,Direct Agent,Closed Won,Pune,48.0,Female,Group Health,37629.0,2.0,Vikram Joshi,2023-06-28
+LEAD0061,Aditya Muni,Direct Agent,Closed Won,Chennai,40.0,Male,Individual Health,15106.0,0.0,Vikram Joshi,2023-10-10
+LEAD0659,Urvashi Rana,Website,Quote Sent,Bengaluru,64.0,Female,Senior Citizen,44735.0,2.0,Deepa Iyer,2023-12-02
+LEAD0084,Divya Srinivasan,Agent Referral,Closed Lost,Bengaluru,56.0,Male,Senior Citizen,66793.0,5.0,Priya Nair,2024-02-25
+LEAD0491,Chanchal Chander,Social Media,Contacted,Bengaluru,55.0,male,Individual Health,19008.0,1.0,Karan Mehta,2024-09-18
+LEAD0316,Yashasvi Zacharia,Social Media,Negotiation,Unknown,26.0,Other,Individual Health,9028.0,3.0,Meena Gupta,2024-03-21
+LEAD0451,Idika Gandhi,Social Media,Contacted,Chennai,42.0,Male,Family Floater,20004.0,3.0,Sneha Reddy,2024-11-28
+LEAD0382,Ekaraj Bhandari,Agent Referral,Closed Won,Bengaluru,51.0,Female,Individual Health,7094.0,2.0,Anjali Singh,2024-06-30
+LEAD0423,Chasmum Buch,Website,Closed Lost,Coimbatore,36.0,Male,Individual Health,19974.0,7.0,Priya Nair,2023-04-06
+LEAD0497,Manthan Brar,Unknown,Contacted,Surat,30.0,Male,Individual Health,13151.0,7.0,Suresh Pillai,2023-10-20
+LEAD0934,Inaya Hora,Direct Agent,Contacted,Pune,18.0,Female,Group Health,19195.0,6.0,Karan Mehta,2023-11-21
+LEAD0740,Vivaan Devi,Unknown,Lead,Mumbai,55.0,Female,Senior Citizen,19974.0,0.0,Deepa Iyer,2024-04-09
+LEAD0524,Urvashi Choudhury,Agent Referral,Negotiation,Patna,39.0,Male,Family Floater,31533.0,4.0,Sneha Reddy,2024-12-22
+LEAD0446,Mugdha Kar,Direct Agent,Closed Won,Jaipur,38.0,Female,Family Floater,13815.0,2.0,Priya Nair,2023-07-12
+LEAD0664,Oviya Choudhary,Direct Agent,Lead,Bengaluru,44.0,Male,Family Floater,29887.0,1.0,Amit Verma,2024-12-01
+LEAD0001,Zayyan Sekhon,Direct Agent,Lead,Mumbai,43.0,Female,Individual Health,6978.0,3.0,Deepa Iyer,2024-07-12
+LEAD0780,Barkha Dash,Website,Closed Lost,Kolkata,31.0,Male,Family Floater,26952.0,4.0,Rajesh Sharma,2024-10-23
+LEAD0967,Nilima Subramanian,Walk-in,Closed Lost,Indore,41.0,F,Individual Health,7722.0,0.0,Anjali Singh,2023-05-23
+LEAD0627,Amaira Date,Email Campaign,Closed Lost,Mumbai,63.0,Other,Senior Citizen,69795.0,3.0,Karan Mehta,2024-08-18
+LEAD0458,Madhavi Virk,Agent Referral,Contacted,Hyderabad,47.0,Male,Family Floater,42526.0,3.0,Priya Nair,2023-01-20
+LEAD0489,Noah Mittal,Agent Referral,Closed Lost,Delhi,59.0,Female,Senior Citizen,39780.0,8.0,Suresh Pillai,2024-03-16
+LEAD0089,Leela Bali,Agent Referral,Contacted,Patna,62.0,Female,Senior Citizen,19974.0,5.0,Amit Verma,2023-05-30
+LEAD0484,Nicholas Sant,Unknown,Quote Sent,Hyderabad,63.0,Female,Family Floater,49425.0,2.0,Suresh Pillai,2024-05-11
+LEAD0461,Barkha Rajagopal,Google Ads,Closed Won,Mumbai,42.0,Male,Family Floater,19774.0,3.0,Deepa Iyer,2024-08-27
+LEAD0078,Anmol Randhawa,Website,Closed Won,Hyderabad,35.0,Female,Group Health,26838.0,1.0,Vikram Joshi,2024-02-28
+LEAD0269,Chameli Yadav,Website,Lead,Indore,39.0,Male,Family Floater,11793.0,5.0,Karan Mehta,2023-03-16
+LEAD0124,Ekiya Saini,Website,Closed Won,Mumbai,47.0,Male,Critical Illness,14581.0,6.0,Karan Mehta,2024-10-22
+LEAD0298,Rushil Merchant,Website,Lead,Bhopal,18.0,Other,Individual Health,12809.0,0.0,Rajesh Sharma,2023-08-27
+LEAD0882,Bina Gulati,Website,Closed Lost,Chennai,57.0,Male,Group Health,125116.0,2.0,Priya Nair,2023-10-08
+LEAD0096,Hredhaan Banerjee,Walk-in,Closed Won,Patna,18.0,Male,Group Health,52597.0,0.0,Suresh Pillai,2023-04-28
+LEAD0734,Gopal Bhardwaj,Unknown,Closed Won,Jaipur,41.0,Female,Family Floater,27871.0,0.0,Deepa Iyer,2023-03-21
+LEAD0012,Vihaan Bhatia,Email Campaign,Negotiation,Coimbatore,34.0,Male,Individual Health,15756.0,3.0,Priya Nair,2023-04-19
+LEAD0115,Jasmit Dhaliwal,Social Media,Negotiation,Pune,30.0,Female,Critical Illness,7974.0,2.0,Anjali Singh,2024-09-20
+LEAD0844,Janaki Subramanian,Social Media,Closed Won,Mumbai,38.0,Female,Group Health,63504.0,3.0,Priya Nair,2024-09-05
+LEAD0429,Pooja Basak,Agent Referral,Quote Sent,Hyderabad,61.0,Female,Family Floater,27306.0,2.0,Priya Nair,2023-09-27
+LEAD0258,Abdul Mital,Agent Referral,Quote Sent,Hyderabad,41.0,Female,Family Floater,23704.0,2.0,Sneha Reddy,2023-08-05
+LEAD0732,Avi Narula,Direct Agent,Quote Sent,Ahmedabad,41.0,Male,Individual Health,19974.0,4.0,Sneha Reddy,2023-09-09
+LEAD0765,Hitesh Kapoor,Website,Quote Sent,Mumbai,54.0,Male,Family Floater,26570.0,3.0,Sneha Reddy,2024-09-28
+LEAD0353,Yashvi Bora,Walk-in,Closed Lost,Mumbai,24.0,Female,Individual Health,14371.0,5.0,Vikram Joshi,2024-08-05
+LEAD0971,Yashasvi Gopal,Social Media,Closed Lost,Bengaluru,30.0,Male,Family Floater,14713.0,6.0,Karan Mehta,2024-12-29
+LEAD0774,Nisha Sharaf,Walk-in,Contacted,Lucknow,37.0,Female,Family Floater,13664.0,5.0,Amit Verma,2024-02-05
+LEAD0691,Harshil Om,Direct Agent,Negotiation,Bhopal,30.0,Female,Individual Health,7040.0,1.0,Vikram Joshi,2024-07-20
+LEAD0923,Shivansh Bir,Walk-in,Closed Lost,Chennai,19.0,Female,Group Health,33894.0,3.0,Sneha Reddy,2024-01-08
+LEAD0791,Devika Nath,Direct Agent,Closed Won,Nagpur,37.0,Male,Family Floater,24458.0,2.0,Meena Gupta,2024-02-09
+LEAD0532,Mitali Zachariah,Agent Referral,Closed Lost,Mumbai,20.0,Female,Critical Illness,7658.0,1.0,Amit Verma,2024-05-21
+LEAD0868,Yatan Chaudry,Direct Agent,Closed Won,Chennai,29.0,Male,Critical Illness,105502.673162957,5.0,Priya Nair,2023-02-11
+LEAD0170,Upma Korpal,Email Campaign,Closed Lost,Chennai,41.0,Male,Senior Citizen,19974.0,3.0,Vikram Joshi,2023-04-21
+LEAD0240,Samuel Baral,Agent Referral,Quote Sent,Patna,43.0,Male,Critical Illness,21544.0,2.0,Amit Verma,2023-12-18
+LEAD0278,Chanchal Rama,Agent Referral,Contacted,Kolkata,56.0,Female,Senior Citizen,63510.0,3.0,Priya Nair,2024-06-12
+LEAD0161,Chandresh Bhatt,Website,Quote Sent,Kolkata,58.0,Female,Senior Citizen,76710.0,7.0,Vikram Joshi,2023-02-26
+LEAD0074,Sathvik Agrawal,Unknown,Closed Lost,Mumbai,37.0,Male,Family Floater,18915.0,3.0,Priya Nair,2023-04-04
+LEAD0530,Urmi Pandey,Agent Referral,Closed Won,Mumbai,41.0,Male,Senior Citizen,90979.0,3.0,Meena Gupta,2024-08-03
+LEAD0063,Tripti Mandal,Direct Agent,Contacted,Hyderabad,68.0,Male,Senior Citizen,82100.0,3.0,Vikram Joshi,2023-12-19
+LEAD0762,Darsh Sachdev,Direct Agent,Closed Won,Delhi,31.0,Female,Critical Illness,21820.0,8.0,Amit Verma,2024-06-15
+LEAD0493,Ekapad Thaker,Website,Contacted,Delhi,45.0,Male,Group Health,66285.0,3.0,Meena Gupta,2023-08-16
+LEAD0741,Faras Pillai,Other,Closed Lost,Chennai,44.0,Female,Individual Health,13605.0,2.0,Sneha Reddy,2024-01-06
+LEAD0751,Neha Talwar,Website,Negotiation,Pune,24.0,Male,Individual Health,11044.0,2.0,Deepa Iyer,2023-10-26
+LEAD0742,Theodore Bora,Website,Contacted,Bengaluru,59.0,Male,Family Floater,55444.0,1.0,Priya Nair,2023-03-25
+LEAD0831,Wazir Chakrabarti,Google Ads,Contacted,Delhi,36.0,Female,Critical Illness,22993.0,7.0,Vikram Joshi,2023-11-13
+LEAD0796,Triveni Bhatti,Website,Quote Sent,Delhi,30.0,Female,Group Health,45240.0,2.0,Deepa Iyer,2023-05-08
+LEAD0048,Divya Kant,Website,Contacted,Delhi,57.0,Male,Senior Citizen,39936.0,2.0,Amit Verma,2024-07-07
+LEAD0763,Dipta Sodhi,Website,Closed Won,Kolkata,19.0,Female,Group Health,66133.0,5.0,Vikram Joshi,2024-10-15
+LEAD0592,Adya Rastogi,Agent Referral,Closed Won,Delhi,44.0,Male,Individual Health,6371.0,3.0,Priya Nair,2024-10-04
+LEAD0808,Tanish Sarna,Website,Closed Won,Hyderabad,24.0,Male,Individual Health,14356.0,4.0,Suresh Pillai,2024-01-06
+LEAD0977,Praneel Nagi,Agent Referral,Closed Won,Kolkata,44.0,Male,Individual Health,9177.0,1.0,Deepa Iyer,2024-03-08
+LEAD0506,Shivansh Ramakrishnan,Google Ads,Negotiation,Delhi,42.0,female,Family Floater,16744.0,4.0,Vikram Joshi,2024-07-29
+LEAD0969,Rehaan Sarkar,Direct Agent,Closed Won,Mumbai,18.0,Female,Family Floater,13776.0,5.0,Priya Nair,2023-06-24
+LEAD0425,Wriddhish Thaman,Agent Referral,Closed Won,Bhopal,58.0,Female,Individual Health,11310.0,4.0,Deepa Iyer,2023-06-09
+LEAD0653,Gauri Nanda,Direct Agent,Closed Lost,Kolkata,26.0,Male,Group Health,58253.0,6.0,Anjali Singh,2023-05-05
+LEAD0193,Unnati Agate,Google Ads,Quote Sent,Bengaluru,55.0,Female,Individual Health,14845.0,3.0,Priya Nair,2024-09-12
+LEAD0643,Mahika Sharaf,Unknown,Quote Sent,Bengaluru,29.0,Female,Critical Illness,8965.0,4.0,Suresh Pillai,2024-08-02
+LEAD0216,Andrew Barad,Unknown,Closed Won,Indore,56.0,female,Senior Citizen,19974.0,4.0,Vikram Joshi,2024-01-18
+LEAD0245,Mitesh Krishna,Google Ads,Closed Lost,Kolkata,46.0,Female,Family Floater,29943.0,0.0,Vikram Joshi,2023-12-23
+LEAD0364,Tripti Mittal,Website,Contacted,Mumbai,72.0,Female,Group Health,85557.0,4.0,Vikram Joshi,2024-04-06
+LEAD0060,Maanav Buch,Walk-in,Quote Sent,Bengaluru,53.0,Male,Individual Health,20181.0,4.0,Karan Mehta,2024-08-06
+LEAD0222,Nidhi Sarin,Unknown,Negotiation,Bengaluru,37.0,Female,Family Floater,13649.0,2.0,Karan Mehta,2024-02-12
+LEAD0450,Inaya Narain,Email Campaign,Negotiation,Delhi,50.0,Male,Critical Illness,25791.0,6.0,Rajesh Sharma,2023-09-12
+LEAD0056,Krishna Batra,Agent Referral,Quote Sent,Surat,50.0,Female,Critical Illness,20871.0,0.0,Rajesh Sharma,2023-01-27
+LEAD0804,Naveen Atwal,Website,Negotiation,Patna,50.0,Female,Individual Health,12793.0,3.0,Priya Nair,2024-04-19
+LEAD0255,Gaurav Pal,Agent Referral,Closed Lost,Nagpur,59.0,Female,Senior Citizen,39485.0,4.0,Rajesh Sharma,2023-10-11
+LEAD0920,Siya Mistry,Social Media,Lead,Bhopal,51.0,Male,Family Floater,21582.0,4.0,Deepa Iyer,2023-03-18
+LEAD0386,Karan Biswas,Walk-in,Quote Sent,Mumbai,41.0,Female,Individual Health,17781.0,0.0,Amit Verma,2023-03-30
+LEAD0949,Teerth Raghavan,Direct Agent,Closed Lost,Ahmedabad,41.0,Male,Individual Health,15982.0,5.0,Karan Mehta,2024-01-23
+LEAD0198,Aarna Bahl,Other,Closed Lost,Mumbai,26.0,Male,Group Health,43814.0,3.0,Meena Gupta,2023-02-02
+LEAD0069,Arunima Kashyap,Social Media,Negotiation,Pune,18.0,Female,Family Floater,19830.0,7.0,Amit Verma,2024-08-25
+LEAD0723,Shravya Peri,Agent Referral,Closed Won,Delhi,35.0,Male,Family Floater,28860.0,0.0,Rajesh Sharma,2023-04-12
+LEAD0745,Ekta Ranganathan,Agent Referral,Closed Won,Chennai,43.0,Female,Family Floater,24366.0,1.0,Meena Gupta,2023-02-04
+LEAD0714,Fitan Dutta,Website,Quote Sent,Delhi,46.0,Male,Family Floater,32310.0,3.0,Meena Gupta,2024-06-09
+LEAD0169,Yashasvi Manne,Email Campaign,Quote Sent,Chennai,44.0,Other,Family Floater,19888.0,2.0,Sneha Reddy,2024-04-13
+LEAD0186,Umang Samra,Walk-in,Closed Won,Coimbatore,50.0,Female,Individual Health,15039.0,6.0,Priya Nair,2023-02-07
+LEAD0036,Zansi Kannan,Direct Agent,Closed Won,Chennai,67.0,Female,Senior Citizen,60820.0,4.0,Rajesh Sharma,2023-07-17
+LEAD0642,Ishita Sandal,Email Campaign,Closed Lost,Kolkata,41.0,Female,Family Floater,18408.0,4.0,Priya Nair,2024-05-26
