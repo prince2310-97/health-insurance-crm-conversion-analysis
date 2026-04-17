@@ -229,4 +229,8 @@ SOURCE crm_business_queries.sql;
 
 ---
 
+### Project Status
+This project is **in progress**. Additional visualizations and insights will be added shortly.
+
+
 *CRM & Sales Analytics Project | Health Insurance Lead Conversion | FY 2023–24*
